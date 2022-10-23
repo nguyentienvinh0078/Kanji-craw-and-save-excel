@@ -1,0 +1,1502 @@
+{
+    "kanji_214": [
+        {
+            "stroke": "1",
+            "index": "1",
+            "key": "一",
+            "vn_sound": "Nhất",
+            "mean": "Số một"
+        },
+        {
+            "stroke": "1",
+            "index": "2",
+            "key": "〡",
+            "vn_sound": "Cổn",
+            "mean": "Nét sổ"
+        },
+        {
+            "stroke": "1",
+            "index": "3",
+            "key": "丶",
+            "vn_sound": "Chủ",
+            "mean": "Điểm, chấm"
+        },
+        {
+            "stroke": "1",
+            "index": "4",
+            "key": "丿",
+            "vn_sound": "Phiệt",
+            "mean": "Nét sổ xiên qua trái"
+        },
+        {
+            "stroke": "1",
+            "index": "5",
+            "key": "乙",
+            "vn_sound": "Ất",
+            "mean": "Vị trí thứ 2 trong thiên can"
+        },
+        {
+            "stroke": "1",
+            "index": "6",
+            "key": "亅",
+            "vn_sound": "Quyết",
+            "mean": "Nét sổ có móc"
+        },
+        {
+            "stroke": "2",
+            "index": "7",
+            "key": "二",
+            "vn_sound": "Nhị",
+            "mean": "Số hai"
+        },
+        {
+            "stroke": "2",
+            "index": "8",
+            "key": "亠",
+            "vn_sound": "Đầu",
+            "mean": "Không có nghĩa"
+        },
+        {
+            "stroke": "2",
+            "index": "9",
+            "key": "人",
+            "vn_sound": "Nhân (亻)",
+            "mean": "Người"
+        },
+        {
+            "stroke": "2",
+            "index": "10",
+            "key": "儿",
+            "vn_sound": "Nhi",
+            "mean": "Trẻ con"
+        },
+        {
+            "stroke": "2",
+            "index": "11",
+            "key": "入",
+            "vn_sound": "Nhập",
+            "mean": "Vào"
+        },
+        {
+            "stroke": "2",
+            "index": "12",
+            "key": "八",
+            "vn_sound": "Bát",
+            "mean": "Số tám"
+        },
+        {
+            "stroke": "2",
+            "index": "13",
+            "key": "冂",
+            "vn_sound": "Quynh",
+            "mean": "Vùng biên giới xa, hoang địa"
+        },
+        {
+            "stroke": "2",
+            "index": "14",
+            "key": "冖",
+            "vn_sound": "Mịch",
+            "mean": "Trùm khăn lên"
+        },
+        {
+            "stroke": "2",
+            "index": "15",
+            "key": "冫",
+            "vn_sound": "Băng",
+            "mean": "Nước đá"
+        },
+        {
+            "stroke": "2",
+            "index": "16",
+            "key": "几",
+            "vn_sound": "Kỷ",
+            "mean": "Ghế dựa"
+        },
+        {
+            "stroke": "2",
+            "index": "17",
+            "key": "凵",
+            "vn_sound": "Khảm",
+            "mean": "Há miệng"
+        },
+        {
+            "stroke": "2",
+            "index": "18",
+            "key": "刀",
+            "vn_sound": "Đao (刂)",
+            "mean": "Cây đao (vũ khí), con dao"
+        },
+        {
+            "stroke": "2",
+            "index": "19",
+            "key": "力",
+            "vn_sound": "Lực",
+            "mean": "Sức mạnh"
+        },
+        {
+            "stroke": "2",
+            "index": "20",
+            "key": "勹",
+            "vn_sound": "Bao",
+            "mean": "Bao bọc"
+        },
+        {
+            "stroke": "2",
+            "index": "21",
+            "key": "匕",
+            "vn_sound": "Chủy",
+            "mean": "Cái thìa (cái muỗng)"
+        },
+        {
+            "stroke": "2",
+            "index": "22",
+            "key": "匚",
+            "vn_sound": "Phương",
+            "mean": "Tủ đựng"
+        },
+        {
+            "stroke": "2",
+            "index": "23",
+            "key": "匸",
+            "vn_sound": "Hệ",
+            "mean": "Giấu giếm, che đậy"
+        },
+        {
+            "stroke": "2",
+            "index": "24",
+            "key": "十",
+            "vn_sound": "Thập",
+            "mean": "Số mười"
+        },
+        {
+            "stroke": "2",
+            "index": "25",
+            "key": "卜",
+            "vn_sound": "Bốc",
+            "mean": "Xem bói"
+        },
+        {
+            "stroke": "2",
+            "index": "26",
+            "key": "卩",
+            "vn_sound": "Tiết",
+            "mean": "Đốt tre"
+        },
+        {
+            "stroke": "2",
+            "index": "27",
+            "key": "厂",
+            "vn_sound": "Hán, Xưởng",
+            "mean": "Vách đá, sườn núi"
+        },
+        {
+            "stroke": "2",
+            "index": "28",
+            "key": "厶",
+            "vn_sound": "Khư, tư",
+            "mean": "Riêng tư"
+        },
+        {
+            "stroke": "2",
+            "index": "29",
+            "key": "又",
+            "vn_sound": "Hựu",
+            "mean": "Một lần nữa, lại nữa"
+        },
+        {
+            "stroke": "3",
+            "index": "30",
+            "key": "口",
+            "vn_sound": "Khẩu",
+            "mean": "Cái miệng"
+        },
+        {
+            "stroke": "3",
+            "index": "31",
+            "key": "囗",
+            "vn_sound": "Vi",
+            "mean": "Vây quanh"
+        },
+        {
+            "stroke": "3",
+            "index": "32",
+            "key": "土",
+            "vn_sound": "Thổ",
+            "mean": "Đất"
+        },
+        {
+            "stroke": "3",
+            "index": "33",
+            "key": "士",
+            "vn_sound": "Sĩ",
+            "mean": "Kẻ sĩ"
+        },
+        {
+            "stroke": "3",
+            "index": "34",
+            "key": "夂",
+            "vn_sound": "Trĩ",
+            "mean": "Đến ở phía sau"
+        },
+        {
+            "stroke": "3",
+            "index": "35",
+            "key": "夊",
+            "vn_sound": "Truy",
+            "mean": "Đi chậm"
+        },
+        {
+            "stroke": "3",
+            "index": "36",
+            "key": "夕",
+            "vn_sound": "Tịch",
+            "mean": "Đêm tối"
+        },
+        {
+            "stroke": "3",
+            "index": "37",
+            "key": "大",
+            "vn_sound": "Đại",
+            "mean": "To lớn"
+        },
+        {
+            "stroke": "3",
+            "index": "38",
+            "key": "女",
+            "vn_sound": "Nữ",
+            "mean": "Nữ giới, con gái, đàn bà"
+        },
+        {
+            "stroke": "3",
+            "index": "39",
+            "key": "子",
+            "vn_sound": "Tử",
+            "mean": "Con"
+        },
+        {
+            "stroke": "3",
+            "index": "40",
+            "key": "宀",
+            "vn_sound": "Miên",
+            "mean": "Mái nhà, mái che"
+        },
+        {
+            "stroke": "3",
+            "index": "41",
+            "key": "寸",
+            "vn_sound": "Thốn",
+            "mean": "Tấc (đơn vị đo chiều dài)"
+        },
+        {
+            "stroke": "3",
+            "index": "42",
+            "key": "小",
+            "vn_sound": "Tiểu",
+            "mean": "Nhỏ bé"
+        },
+        {
+            "stroke": "3",
+            "index": "43",
+            "key": "尢",
+            "vn_sound": "Uông",
+            "mean": "Yếu đuối"
+        },
+        {
+            "stroke": "3",
+            "index": "44",
+            "key": "尸",
+            "vn_sound": "Thi",
+            "mean": "Thây ma, xác chết"
+        },
+        {
+            "stroke": "3",
+            "index": "45",
+            "key": "屮",
+            "vn_sound": "Triệt",
+            "mean": "Mầm non, cỏ non mới mọc"
+        },
+        {
+            "stroke": "3",
+            "index": "46",
+            "key": "山",
+            "vn_sound": "Sơn",
+            "mean": "Núi non"
+        },
+        {
+            "stroke": "3",
+            "index": "47",
+            "key": "巛",
+            "vn_sound": "Xuyên",
+            "mean": "Sông ngòi"
+        },
+        {
+            "stroke": "3",
+            "index": "48",
+            "key": "工",
+            "vn_sound": "Công",
+            "mean": "Công việc, người thợ"
+        },
+        {
+            "stroke": "3",
+            "index": "49",
+            "key": "己",
+            "vn_sound": "Kỷ",
+            "mean": "Bản thân mình"
+        },
+        {
+            "stroke": "3",
+            "index": "50",
+            "key": "巾",
+            "vn_sound": "Cân",
+            "mean": "Cái khăn"
+        },
+        {
+            "stroke": "3",
+            "index": "51",
+            "key": "干",
+            "vn_sound": "Can",
+            "mean": "Can dự, thiên can"
+        },
+        {
+            "stroke": "3",
+            "index": "52",
+            "key": "幺",
+            "vn_sound": "Yêu",
+            "mean": "Nhỏ nhắn"
+        },
+        {
+            "stroke": "3",
+            "index": "53",
+            "key": "广",
+            "vn_sound": "Nghiễm",
+            "mean": "Mái nhà"
+        },
+        {
+            "stroke": "3",
+            "index": "54",
+            "key": "廴",
+            "vn_sound": "Dẫn",
+            "mean": "Bước dài"
+        },
+        {
+            "stroke": "3",
+            "index": "55",
+            "key": "廾",
+            "vn_sound": "Củng",
+            "mean": "Chắp tay"
+        },
+        {
+            "stroke": "3",
+            "index": "56",
+            "key": "弋",
+            "vn_sound": "Dặc",
+            "mean": "Chiếm lấy, bắn"
+        },
+        {
+            "stroke": "3",
+            "index": "57",
+            "key": "弓",
+            "vn_sound": "Cung",
+            "mean": "Cái cung (để bắn tên)"
+        },
+        {
+            "stroke": "3",
+            "index": "58",
+            "key": "彐",
+            "vn_sound": "Kệ",
+            "mean": "Đầu con nhím"
+        },
+        {
+            "stroke": "3",
+            "index": "59",
+            "key": "彡",
+            "vn_sound": "Sam",
+            "mean": "Lông dài (đuôi sam)"
+        },
+        {
+            "stroke": "3",
+            "index": "60",
+            "key": "彳",
+            "vn_sound": "Xích",
+            "mean": "Bước ngắn, bước chân trái"
+        },
+        {
+            "stroke": "4",
+            "index": "61",
+            "key": "心",
+            "vn_sound": "Tâm (忄)",
+            "mean": "Quả tim, tâm trí, tấm lòng"
+        },
+        {
+            "stroke": "4",
+            "index": "62",
+            "key": "戈",
+            "vn_sound": "Qua",
+            "mean": "Cây qua (một thứ binh khí dài)"
+        },
+        {
+            "stroke": "4",
+            "index": "63",
+            "key": "戶",
+            "vn_sound": "Hộ 6",
+            "mean": "Cửa một cánh"
+        },
+        {
+            "stroke": "4",
+            "index": "64",
+            "key": "手",
+            "vn_sound": "Thủ (扌)",
+            "mean": "Tay"
+        },
+        {
+            "stroke": "4",
+            "index": "65",
+            "key": "支",
+            "vn_sound": "Chi",
+            "mean": "Cành nhánh"
+        },
+        {
+            "stroke": "4",
+            "index": "66",
+            "key": "攴",
+            "vn_sound": "Phộc (攵)",
+            "mean": "Đánh khẽ"
+        },
+        {
+            "stroke": "4",
+            "index": "67",
+            "key": "文",
+            "vn_sound": "Văn",
+            "mean": "Văn chương, văn vẻ"
+        },
+        {
+            "stroke": "4",
+            "index": "68",
+            "key": "斗",
+            "vn_sound": "Đẩu 7",
+            "mean": "Cái đấu để đong"
+        },
+        {
+            "stroke": "4",
+            "index": "69",
+            "key": "斤",
+            "vn_sound": "Cân",
+            "mean": "Cái búa, rìu"
+        },
+        {
+            "stroke": "4",
+            "index": "70",
+            "key": "方",
+            "vn_sound": "Phương 9",
+            "mean": "Vuông"
+        },
+        {
+            "stroke": "4",
+            "index": "71",
+            "key": "无",
+            "vn_sound": "Vô",
+            "mean": "Không"
+        },
+        {
+            "stroke": "4",
+            "index": "72",
+            "key": "日",
+            "vn_sound": "Nhật",
+            "mean": "Mặt trời, ngày"
+        },
+        {
+            "stroke": "4",
+            "index": "73",
+            "key": "曰",
+            "vn_sound": "Viết",
+            "mean": "Nói rằng"
+        },
+        {
+            "stroke": "4",
+            "index": "74",
+            "key": "月",
+            "vn_sound": "Nguyệt",
+            "mean": "Mặt trăng, tháng"
+        },
+        {
+            "stroke": "4",
+            "index": "75",
+            "key": "木",
+            "vn_sound": "Mộc",
+            "mean": "Cay cối, gỗ"
+        },
+        {
+            "stroke": "4",
+            "index": "76",
+            "key": "欠",
+            "vn_sound": "Khiếm",
+            "mean": "Thiếu vắng, khiếm khuyết"
+        },
+        {
+            "stroke": "4",
+            "index": "77",
+            "key": "止",
+            "vn_sound": "Chỉ",
+            "mean": "Dừng lại"
+        },
+        {
+            "stroke": "4",
+            "index": "78",
+            "key": "歹",
+            "vn_sound": "Đãi",
+            "mean": "Xấu xa, tệ hại"
+        },
+        {
+            "stroke": "4",
+            "index": "79",
+            "key": "殳",
+            "vn_sound": "Thù",
+            "mean": "Binh khí dài, cái gậy"
+        },
+        {
+            "stroke": "4",
+            "index": "80",
+            "key": "毋",
+            "vn_sound": "Vô",
+            "mean": "Chớ, đừng"
+        },
+        {
+            "stroke": "4",
+            "index": "81",
+            "key": "比",
+            "vn_sound": "Tỷ",
+            "mean": "So sánh"
+        },
+        {
+            "stroke": "4",
+            "index": "82",
+            "key": "毛",
+            "vn_sound": "Mao",
+            "mean": "Lông"
+        },
+        {
+            "stroke": "4",
+            "index": "83",
+            "key": "氏",
+            "vn_sound": "Thị",
+            "mean": "Họ"
+        },
+        {
+            "stroke": "4",
+            "index": "84",
+            "key": "气",
+            "vn_sound": "Khí",
+            "mean": "Hơi nước"
+        },
+        {
+            "stroke": "4",
+            "index": "85",
+            "key": "水",
+            "vn_sound": "Thủy (氵)",
+            "mean": "Nước"
+        },
+        {
+            "stroke": "4",
+            "index": "86",
+            "key": "火",
+            "vn_sound": "Hỏa (灬)",
+            "mean": "Lửa"
+        },
+        {
+            "stroke": "4",
+            "index": "87",
+            "key": "爪",
+            "vn_sound": "Trảo",
+            "mean": "Móng vuốt cầm thú"
+        },
+        {
+            "stroke": "4",
+            "index": "88",
+            "key": "父",
+            "vn_sound": "Phụ",
+            "mean": "Cha"
+        },
+        {
+            "stroke": "4",
+            "index": "89",
+            "key": "爻",
+            "vn_sound": "Hào",
+            "mean": "Hào âm, hào dương (Kinh Dịch)"
+        },
+        {
+            "stroke": "4",
+            "index": "90",
+            "key": "爿",
+            "vn_sound": "Tường (丬)",
+            "mean": "Mảnh gỗ, cái giường"
+        },
+        {
+            "stroke": "4",
+            "index": "91",
+            "key": "片",
+            "vn_sound": "Phiến",
+            "mean": "Mảnh, tấm, miếng"
+        },
+        {
+            "stroke": "4",
+            "index": "92",
+            "key": "牙",
+            "vn_sound": "Nha",
+            "mean": "Răng"
+        },
+        {
+            "stroke": "4",
+            "index": "93",
+            "key": "牛",
+            "vn_sound": "Ngưu ( 牜)",
+            "mean": "Trâu"
+        },
+        {
+            "stroke": "4",
+            "index": "94",
+            "key": "犬",
+            "vn_sound": "Khuyển (犭)",
+            "mean": "Con chó"
+        },
+        {
+            "stroke": "5",
+            "index": "95",
+            "key": "玄",
+            "vn_sound": "Huyền",
+            "mean": "Màu đen huyền, huyền bí"
+        },
+        {
+            "stroke": "5",
+            "index": "96",
+            "key": "玉",
+            "vn_sound": "Ngọc",
+            "mean": "Đá quý, ngọc"
+        },
+        {
+            "stroke": "5",
+            "index": "97",
+            "key": "瓜",
+            "vn_sound": "Qua",
+            "mean": "Quả dưa"
+        },
+        {
+            "stroke": "5",
+            "index": "98",
+            "key": "瓦",
+            "vn_sound": "Ngõa",
+            "mean": "Ngói"
+        },
+        {
+            "stroke": "5",
+            "index": "99",
+            "key": "甘",
+            "vn_sound": "Cam",
+            "mean": "Ngọt"
+        },
+        {
+            "stroke": "5",
+            "index": "100",
+            "key": "生",
+            "vn_sound": "Sinh",
+            "mean": "Sinh đẻ, sinh sống"
+        },
+        {
+            "stroke": "5",
+            "index": "101",
+            "key": "用",
+            "vn_sound": "Dụng",
+            "mean": "Dùng"
+        },
+        {
+            "stroke": "5",
+            "index": "102",
+            "key": "田",
+            "vn_sound": "Điền",
+            "mean": "Ruộng"
+        },
+        {
+            "stroke": "5",
+            "index": "103",
+            "key": "疋",
+            "vn_sound": "Thất ( 匹)",
+            "mean": "Đơn vị đo chiều dài, tấm (vải)"
+        },
+        {
+            "stroke": "5",
+            "index": "104",
+            "key": "疒",
+            "vn_sound": "Nạch",
+            "mean": "Bệnh tật"
+        },
+        {
+            "stroke": "5",
+            "index": "105",
+            "key": "癶",
+            "vn_sound": "Bát",
+            "mean": "Gạt ngược lại, trở lại"
+        },
+        {
+            "stroke": "5",
+            "index": "106",
+            "key": "白",
+            "vn_sound": "Bạch",
+            "mean": "Trắng"
+        },
+        {
+            "stroke": "5",
+            "index": "107",
+            "key": "皮",
+            "vn_sound": "Bì",
+            "mean": "Da"
+        },
+        {
+            "stroke": "5",
+            "index": "108",
+            "key": "皿",
+            "vn_sound": "Mãnh",
+            "mean": "Bát dĩa"
+        },
+        {
+            "stroke": "5",
+            "index": "109",
+            "key": "目",
+            "vn_sound": "Mục",
+            "mean": "Mắt"
+        },
+        {
+            "stroke": "5",
+            "index": "110",
+            "key": "矛",
+            "vn_sound": "Mâu",
+            "mean": "Cây giáo (vũ khí chiến đấu)"
+        },
+        {
+            "stroke": "5",
+            "index": "111",
+            "key": "矢",
+            "vn_sound": "Thỉ",
+            "mean": "Cây tên, mũi tên"
+        },
+        {
+            "stroke": "5",
+            "index": "112",
+            "key": "石",
+            "vn_sound": "Thạch",
+            "mean": "Đá"
+        },
+        {
+            "stroke": "5",
+            "index": "113",
+            "key": "示",
+            "vn_sound": "Kỳ (Kì, Thị) (礻)",
+            "mean": "Chỉ thị; thần đất"
+        },
+        {
+            "stroke": "5",
+            "index": "114",
+            "key": "禸",
+            "vn_sound": "Nhựu",
+            "mean": "Vết chân, lốt chân"
+        },
+        {
+            "stroke": "5",
+            "index": "115",
+            "key": "禾",
+            "vn_sound": "Hòa",
+            "mean": "Lúa"
+        },
+        {
+            "stroke": "5",
+            "index": "116",
+            "key": "穴",
+            "vn_sound": "Huyệt",
+            "mean": "Hang lỗ"
+        },
+        {
+            "stroke": "5",
+            "index": "117",
+            "key": "立",
+            "vn_sound": "Lập",
+            "mean": "Đứng, thành lập"
+        },
+        {
+            "stroke": "6",
+            "index": "118",
+            "key": "竹",
+            "vn_sound": "Trúc",
+            "mean": "Tre trúc"
+        },
+        {
+            "stroke": "6",
+            "index": "119",
+            "key": "米",
+            "vn_sound": "Mễ",
+            "mean": "Gạo"
+        },
+        {
+            "stroke": "6",
+            "index": "120",
+            "key": "糸",
+            "vn_sound": "Mịch (糹, 纟)",
+            "mean": "Sợi tơ nhỏ"
+        },
+        {
+            "stroke": "6",
+            "index": "121",
+            "key": "缶",
+            "vn_sound": "Phẫu",
+            "mean": "Đồ sành"
+        },
+        {
+            "stroke": "6",
+            "index": "122",
+            "key": "网",
+            "vn_sound": "Võng (罒, 罓)",
+            "mean": "Cái lưới"
+        },
+        {
+            "stroke": "6",
+            "index": "123",
+            "key": "羊",
+            "vn_sound": "Dương",
+            "mean": "Con dê"
+        },
+        {
+            "stroke": "6",
+            "index": "124",
+            "key": "羽",
+            "vn_sound": "Vũ (羽)",
+            "mean": "Lông vũ"
+        },
+        {
+            "stroke": "6",
+            "index": "125",
+            "key": "老",
+            "vn_sound": "Lão",
+            "mean": "Già"
+        },
+        {
+            "stroke": "6",
+            "index": "126",
+            "key": "而",
+            "vn_sound": "Nhi",
+            "mean": "Mà, và"
+        },
+        {
+            "stroke": "6",
+            "index": "127",
+            "key": "耒",
+            "vn_sound": "Lỗi",
+            "mean": "Cái này"
+        },
+        {
+            "stroke": "6",
+            "index": "128",
+            "key": "耳",
+            "vn_sound": "Nhĩ",
+            "mean": "Tai (lỗ tai)"
+        },
+        {
+            "stroke": "6",
+            "index": "129",
+            "key": "聿",
+            "vn_sound": "Duật",
+            "mean": "Cây bút"
+        },
+        {
+            "stroke": "6",
+            "index": "130",
+            "key": "肉",
+            "vn_sound": "Nhục",
+            "mean": "Thịt"
+        },
+        {
+            "stroke": "6",
+            "index": "131",
+            "key": "臣",
+            "vn_sound": "Thần",
+            "mean": "Bề tôi"
+        },
+        {
+            "stroke": "6",
+            "index": "132",
+            "key": "自",
+            "vn_sound": "Tự",
+            "mean": "Tự bản thân, kể từ"
+        },
+        {
+            "stroke": "6",
+            "index": "133",
+            "key": "至",
+            "vn_sound": "Chí",
+            "mean": "Đến"
+        },
+        {
+            "stroke": "6",
+            "index": "134",
+            "key": "臼",
+            "vn_sound": "Cữu",
+            "mean": "Cái cối giã gạo"
+        },
+        {
+            "stroke": "6",
+            "index": "135",
+            "key": "舌",
+            "vn_sound": "Thiệt",
+            "mean": "Cái lưỡi"
+        },
+        {
+            "stroke": "6",
+            "index": "136",
+            "key": "舛",
+            "vn_sound": "Suyễn",
+            "mean": "Sai suyễn, sai lầm"
+        },
+        {
+            "stroke": "6",
+            "index": "137",
+            "key": "舟",
+            "vn_sound": "Chu",
+            "mean": "Cái thuyền"
+        },
+        {
+            "stroke": "6",
+            "index": "138",
+            "key": "艮",
+            "vn_sound": "Cấn",
+            "mean": "Quẻ Cấn (Kinh Dịch); dừng, bền cứng"
+        },
+        {
+            "stroke": "6",
+            "index": "139",
+            "key": "色",
+            "vn_sound": "Sắc",
+            "mean": "Màu, dáng vẻ, nữ sắc"
+        },
+        {
+            "stroke": "6",
+            "index": "140",
+            "key": "艸",
+            "vn_sound": "Thảo (艹)",
+            "mean": "Cỏ"
+        },
+        {
+            "stroke": "6",
+            "index": "141",
+            "key": "虍",
+            "vn_sound": "Hô",
+            "mean": "Vằn lông con cọp"
+        },
+        {
+            "stroke": "6",
+            "index": "142",
+            "key": "虫",
+            "vn_sound": "Trùng",
+            "mean": "Sâu bọ"
+        },
+        {
+            "stroke": "6",
+            "index": "143",
+            "key": "血",
+            "vn_sound": "Huyết",
+            "mean": "Máu"
+        },
+        {
+            "stroke": "6",
+            "index": "144",
+            "key": "行",
+            "vn_sound": "Hành",
+            "mean": "Đi, thi hành, làm được"
+        },
+        {
+            "stroke": "6",
+            "index": "145",
+            "key": "衣",
+            "vn_sound": "Y (衤)",
+            "mean": "Áo"
+        },
+        {
+            "stroke": "6",
+            "index": "146",
+            "key": "襾",
+            "vn_sound": "Á",
+            "mean": "Che đậy, cái nắp"
+        },
+        {
+            "stroke": "7",
+            "index": "147",
+            "key": "見",
+            "vn_sound": "Kiến",
+            "mean": "Trông thấy"
+        },
+        {
+            "stroke": "7",
+            "index": "148",
+            "key": "角",
+            "vn_sound": "Giác",
+            "mean": "Cái sừng"
+        },
+        {
+            "stroke": "7",
+            "index": "149",
+            "key": "言",
+            "vn_sound": "Ngôn",
+            "mean": "Nói"
+        },
+        {
+            "stroke": "7",
+            "index": "150",
+            "key": "谷",
+            "vn_sound": "Cốc",
+            "mean": "Khe nước chảy giữa hai núi, thung lũng"
+        },
+        {
+            "stroke": "7",
+            "index": "151",
+            "key": "豆",
+            "vn_sound": "Đậu",
+            "mean": "Hạt đậu, cây đậu"
+        },
+        {
+            "stroke": "7",
+            "index": "152",
+            "key": "豕",
+            "vn_sound": "Thỉ",
+            "mean": "Con Heo (Lợn)"
+        },
+        {
+            "stroke": "7",
+            "index": "153",
+            "key": "豸",
+            "vn_sound": "Trãi",
+            "mean": "Loài sâu không chân"
+        },
+        {
+            "stroke": "7",
+            "index": "154",
+            "key": "貝",
+            "vn_sound": "Bối (贝)",
+            "mean": "Vật báu"
+        },
+        {
+            "stroke": "7",
+            "index": "155",
+            "key": "赤",
+            "vn_sound": "Xích",
+            "mean": "Màu đỏ"
+        },
+        {
+            "stroke": "7",
+            "index": "156",
+            "key": "走",
+            "vn_sound": "Tẩu (赱)",
+            "mean": "Đi, chạy"
+        },
+        {
+            "stroke": "7",
+            "index": "157",
+            "key": "足",
+            "vn_sound": "Túc",
+            "mean": "Chân, đầy đủ"
+        },
+        {
+            "stroke": "7",
+            "index": "158",
+            "key": "身",
+            "vn_sound": "Thân",
+            "mean": "Thân thể"
+        },
+        {
+            "stroke": "7",
+            "index": "159",
+            "key": "車",
+            "vn_sound": "Xa (车)",
+            "mean": "Chiếc xe"
+        },
+        {
+            "stroke": "7",
+            "index": "160",
+            "key": "辛",
+            "vn_sound": "Tân",
+            "mean": "Cay"
+        },
+        {
+            "stroke": "7",
+            "index": "161",
+            "key": "辰",
+            "vn_sound": "Thần",
+            "mean": "Nhật, nguyệt, tinh; thìn (12 chi)"
+        },
+        {
+            "stroke": "7",
+            "index": "162",
+            "key": "辵",
+            "vn_sound": "sước (辶 )",
+            "mean": "Chợt đi chợt đứng"
+        },
+        {
+            "stroke": "7",
+            "index": "163",
+            "key": "邑",
+            "vn_sound": "ấp (阝)",
+            "mean": "Vùng đất, đất phong cho quan"
+        },
+        {
+            "stroke": "7",
+            "index": "164",
+            "key": "酉",
+            "vn_sound": "Dậu",
+            "mean": "Rượu (trong bát quái: Tí, Ngọ, Mão, Dậu)"
+        },
+        {
+            "stroke": "7",
+            "index": "165",
+            "key": "釆",
+            "vn_sound": "Biện",
+            "mean": "Phân biệt"
+        },
+        {
+            "stroke": "7",
+            "index": "166",
+            "key": "里",
+            "vn_sound": "Lý",
+            "mean": "Dặm, làng xóm"
+        },
+        {
+            "stroke": "8",
+            "index": "167",
+            "key": "金",
+            "vn_sound": "Kim",
+            "mean": "Kim loại, vàng"
+        },
+        {
+            "stroke": "8",
+            "index": "168",
+            "key": "長",
+            "vn_sound": "Trường (镸 , 长)",
+            "mean": "Dài; lớn (trưởng)"
+        },
+        {
+            "stroke": "8",
+            "index": "169",
+            "key": "門",
+            "vn_sound": "Môn (门)",
+            "mean": "Cửa hai cánh"
+        },
+        {
+            "stroke": "8",
+            "index": "170",
+            "key": "阜",
+            "vn_sound": "Phụ (阝)",
+            "mean": "Đống đất, gò đất"
+        },
+        {
+            "stroke": "8",
+            "index": "171",
+            "key": "隶",
+            "vn_sound": "Đãi",
+            "mean": "Kịp, kịp đến"
+        },
+        {
+            "stroke": "8",
+            "index": "172",
+            "key": "隹",
+            "vn_sound": "Truy, chuy",
+            "mean": "Chim đuôi ngắn"
+        },
+        {
+            "stroke": "8",
+            "index": "173",
+            "key": "雨",
+            "vn_sound": "Vũ",
+            "mean": "Mưa"
+        },
+        {
+            "stroke": "8",
+            "index": "174",
+            "key": "青",
+            "vn_sound": "Thanh (靑)",
+            "mean": "Màu xanh"
+        },
+        {
+            "stroke": "8",
+            "index": "175",
+            "key": "非",
+            "vn_sound": "Phi",
+            "mean": "Không phải, trái, trái ngược"
+        },
+        {
+            "stroke": "9",
+            "index": "176",
+            "key": "面",
+            "vn_sound": "Diện",
+            "mean": "Mặt"
+        },
+        {
+            "stroke": "9",
+            "index": "177",
+            "key": "革",
+            "vn_sound": "Cách",
+            "mean": "Da thú; thay đổi, cải cách"
+        },
+        {
+            "stroke": "9",
+            "index": "178",
+            "key": "韋",
+            "vn_sound": "Vi (韦)",
+            "mean": "Da thuộc, trái ngược nhau"
+        },
+        {
+            "stroke": "9",
+            "index": "179",
+            "key": "韭",
+            "vn_sound": "Cửu",
+            "mean": "Cây hẹ"
+        },
+        {
+            "stroke": "9",
+            "index": "180",
+            "key": "音",
+            "vn_sound": "Âm",
+            "mean": "Âm thanh, tiếng"
+        },
+        {
+            "stroke": "9",
+            "index": "181",
+            "key": "頁",
+            "vn_sound": "Hiệt (页)",
+            "mean": "Cái đầu"
+        },
+        {
+            "stroke": "9",
+            "index": "182",
+            "key": "風",
+            "vn_sound": "Phong",
+            "mean": "Gió"
+        },
+        {
+            "stroke": "9",
+            "index": "183",
+            "key": "飛",
+            "vn_sound": "Phi",
+            "mean": "Bay"
+        },
+        {
+            "stroke": "9",
+            "index": "184",
+            "key": "食",
+            "vn_sound": "Thực",
+            "mean": "Ăn"
+        },
+        {
+            "stroke": "9",
+            "index": "185",
+            "key": "首",
+            "vn_sound": "Thủ",
+            "mean": "Đầu"
+        },
+        {
+            "stroke": "9",
+            "index": "186",
+            "key": "香",
+            "vn_sound": "Hương",
+            "mean": "Mùi thơm"
+        },
+        {
+            "stroke": "10",
+            "index": "187",
+            "key": "馬",
+            "vn_sound": "Mã",
+            "mean": "Con ngựa"
+        },
+        {
+            "stroke": "10",
+            "index": "188",
+            "key": "骨",
+            "vn_sound": "Cốt",
+            "mean": "Xương"
+        },
+        {
+            "stroke": "10",
+            "index": "189",
+            "key": "高",
+            "vn_sound": "Cao",
+            "mean": "Cao"
+        },
+        {
+            "stroke": "10",
+            "index": "190",
+            "key": "髟",
+            "vn_sound": "Tiêu",
+            "mean": "Tóc dài"
+        },
+        {
+            "stroke": "10",
+            "index": "191",
+            "key": "鬥",
+            "vn_sound": "Đấu",
+            "mean": "Chiến đấu, chống nhau"
+        },
+        {
+            "stroke": "10",
+            "index": "192",
+            "key": "鬯",
+            "vn_sound": "Sưởng",
+            "mean": "Bao đựng cây cung, rượu nếp"
+        },
+        {
+            "stroke": "10",
+            "index": "193",
+            "key": "鬲",
+            "vn_sound": "Cách",
+            "mean": "Cái đỉnh hương"
+        },
+        {
+            "stroke": "10",
+            "index": "194",
+            "key": "鬼",
+            "vn_sound": "Qủy",
+            "mean": "Con quỷ"
+        },
+        {
+            "stroke": "11",
+            "index": "195",
+            "key": "魚",
+            "vn_sound": "Ngư",
+            "mean": "Cá"
+        },
+        {
+            "stroke": "11",
+            "index": "196",
+            "key": "鳥",
+            "vn_sound": "Điểu",
+            "mean": "Chim"
+        },
+        {
+            "stroke": "11",
+            "index": "197",
+            "key": "鹵",
+            "vn_sound": "Lỗ",
+            "mean": "Đất mặn"
+        },
+        {
+            "stroke": "11",
+            "index": "198",
+            "key": "鹿",
+            "vn_sound": "Lộc",
+            "mean": "Con hươu"
+        },
+        {
+            "stroke": "11",
+            "index": "199",
+            "key": "麥",
+            "vn_sound": "Mạch",
+            "mean": "Lúa mạch"
+        },
+        {
+            "stroke": "11",
+            "index": "200",
+            "key": "麻",
+            "vn_sound": "Ma",
+            "mean": "Cây gai"
+        },
+        {
+            "stroke": "12",
+            "index": "201",
+            "key": "黃",
+            "vn_sound": "Hoàng",
+            "mean": "Màu vàng"
+        },
+        {
+            "stroke": "12",
+            "index": "202",
+            "key": "黍",
+            "vn_sound": "Thứ",
+            "mean": "Lúa nếp"
+        },
+        {
+            "stroke": "12",
+            "index": "203",
+            "key": "黑",
+            "vn_sound": "Hắc",
+            "mean": "Màu đen"
+        },
+        {
+            "stroke": "12",
+            "index": "204",
+            "key": "黹",
+            "vn_sound": "Chỉ",
+            "mean": "May, khâu vá"
+        },
+        {
+            "stroke": "13",
+            "index": "205",
+            "key": "黽",
+            "vn_sound": "Mãnh",
+            "mean": "Con ếch"
+        },
+        {
+            "stroke": "13",
+            "index": "206",
+            "key": "鼎",
+            "vn_sound": "Đỉnh",
+            "mean": "Cái đỉnh"
+        },
+        {
+            "stroke": "13",
+            "index": "207",
+            "key": "鼓",
+            "vn_sound": "Cổ",
+            "mean": "Cái trống"
+        },
+        {
+            "stroke": "13",
+            "index": "208",
+            "key": "鼠",
+            "vn_sound": "Thử",
+            "mean": "Con chuột"
+        },
+        {
+            "stroke": "14",
+            "index": "209",
+            "key": "鼻",
+            "vn_sound": "Tỵ",
+            "mean": "Cái mũi"
+        },
+        {
+            "stroke": "14",
+            "index": "210",
+            "key": "齊",
+            "vn_sound": "Tề (斉, 齐 )",
+            "mean": "Cùng nhau, ngang bằng"
+        },
+        {
+            "stroke": "15",
+            "index": "211",
+            "key": "齒",
+            "vn_sound": "Xỉ (齿, 歯)",
+            "mean": "Răng"
+        },
+        {
+            "stroke": "16",
+            "index": "212",
+            "key": "龍",
+            "vn_sound": "Long (龙 )",
+            "mean": "Con rồng"
+        },
+        {
+            "stroke": "16",
+            "index": "213",
+            "key": "龜",
+            "vn_sound": "Quy (亀, 龟 )",
+            "mean": "Con rùa"
+        },
+        {
+            "stroke": "17",
+            "index": "214",
+            "key": "龠",
+            "vn_sound": "Dược",
+            "mean": "Sáo 3 lỗ"
+        }
+    ]
+}

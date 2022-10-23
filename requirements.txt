@@ -1,0 +1,7 @@
+pyinstaller==4.10
+autopep8
+jsons
+selenium
+chromedriver-autoinstaller
+XlsxWriter
+html2image
