@@ -34,6 +34,7 @@ def get_word_data(driver, word):
                 print(f'>> Stroke: [ {stroke} ]')
             except:
                 stroke = 10
+                
             sleep(0.25)
 
             draw_again_btn_ele = driver.find_element(By.XPATH, '/html/body/app-root/div/div/app-search-kanji/div[1]/div/div/div/div[2]/div[1]/app-kanji/div/div[1]/div[2]/div[2]/div/app-kanji-draw/div/div[2]/button')
