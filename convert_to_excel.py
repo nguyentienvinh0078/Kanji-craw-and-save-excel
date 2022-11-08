@@ -62,8 +62,8 @@ base_out_fname = 'ByVing'
 courses = ['N5', 'N4', 'Course'] 
 courses = ['Course'] 
 def main():
-    courses = ['Course'] 
     courses = ['N5', 'N4', 'Course'] 
+    courses = ['Course'] 
 
     for course in courses:
         print("\n>> Course: ", course)

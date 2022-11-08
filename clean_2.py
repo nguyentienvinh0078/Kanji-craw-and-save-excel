@@ -3,6 +3,9 @@ def clean_text(input_text):
 	input_text = input_text.replace('訓', 'Kunyomi')
 
 	input_text = input_text.replace('"', ' ')
+	
+	input_text = input_text.replace('）：', '): ')
+	input_text = input_text.replace(' ：', ' :')
 
 	input_text = input_text.replace('：', ':')
 	input_text = input_text.replace(': ', ':')
@@ -79,12 +82,13 @@ def clean_text(input_text):
 		if kunyomi.endswith('\n'):
 			kunyomi = kunyomi[:-1]
 
-		onyomi = onyomi.replace('\n', '[*]')
-		kunyomi = kunyomi.replace('\n', '[*]')
-
+		onyomi = onyomi.replace('\n', '###')
+		kunyomi = kunyomi.replace('\n', '###')
+		onyomi = onyomi.replace('音(Onyomi): ', '')
+		kunyomi = kunyomi.replace('訓(Kunyomi):', '')
 		print('{', end='')
-		print('"onyomi": "{}"'.format(onyomi), end=',')
-		print('"kunyomi": "{}"'.format(kunyomi), end='')
+		print('"onyomi_example": "{}"'.format(onyomi), end=',')
+		print('"kunyomi_example": "{}"'.format(kunyomi[1:]), end='')
 		if count != len(input_text):
 			print('},')
 		else:
@@ -93,6 +97,7 @@ def clean_text(input_text):
 	# print(count, end='')
 
 input_text = """
+
 音：シュ	日本酒（に　ほん　しゅ）：rượu Nhật Bản
 訓：さけ/さか：rượu	酒屋（さか　や）：quán rượu
 音：テイ	"規定（きてい）：quy định
@@ -116,7 +121,7 @@ input_text = """
 音：カ	"過去（か　こ）：quá khứ
 過半数（か　はん　すう）：đa số; đại đa số
 過程（か　てい）： quá trình; giai đoạn"
-"音：す・ぎる：đi qua;nhiều
+"訓：す・ぎる：đi qua;nhiều
 　　す・ごす：dùng (thìgiờ)"	
 音：キン/ゴン	"転勤（てん　きん）：chuyển việc  (chuyển nơi làm việc )
 勤務（きん　む）：công việc
@@ -142,8 +147,10 @@ input_text = """
 感心（かん　しん）：quan tâm
 感動（かん　どう）：sự cảm động"
 訓：かん・じる：cảm thấy	
-
-
+2
 """
+
+import os
+os.system('cls')
 clean_text(input_text)
 input()

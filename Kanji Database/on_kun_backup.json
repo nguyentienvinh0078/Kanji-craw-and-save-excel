@@ -1,0 +1,2184 @@
+{
+    "Course": {
+        "1": [
+            {
+                "onyomi_example": "ジン、ニン###NHẬT BẢN NHÂN: 日本人(に ほん じん): Người Nhật Bản###ベトナム人(じん): Người Việt Nam###BẢN NHÂN: 本人(ほん にん): Bản thân; người ủy thác",
+                "kunyomi_example": "ひと: người"
+            },
+            {
+                "onyomi_example": "メイ、ミョ###HỮU DANH: 有名(ゆう めい): Nổi tiếng",
+                "kunyomi_example": "な: tên, tiếng tăm; danh dự###DANH TIỀN: お名前(な まえ): Tên"
+            },
+            {
+                "onyomi_example": "ホウ###方法(ほう ほう): Phương pháp",
+                "kunyomi_example": "かた: phía; người; cách,vị###この方(かた)/その方(かた)/あの方(かた): Vị này,vị kia,vị ấy"
+            },
+            {
+                "onyomi_example": "ホン###Nhật bản: 日本(に ほん): Nhật Bản",
+                "kunyomi_example": "もと: gốc"
+            },
+            {
+                "onyomi_example": "ニチ、ジツ###Bản nhật: 本日(ほん じつ): Ngày hôm nay###Nhất nhật: 一日(いち にち): Một ngày",
+                "kunyomi_example": "ひ、か: ngày; mặt trời; nước Nhật; ban ngày###Nhật xuất: 日の出 [ひので] : mặt trời mọc; lúc mặt trời mọc, lúc bình minh"
+            },
+            {
+                "onyomi_example": "カ",
+                "kunyomi_example": "なに、なん: cái gì, thế nào, bao nhiêu###Hà nhân: 何人(なん にん): Bao nhiêu người"
+            },
+            {
+                "onyomi_example": "ダイ、タイ###Đại học: 大学(だい がく): Đại học",
+                "kunyomi_example": "おお*きい: lớn,nhiều"
+            },
+            {
+                "onyomi_example": "ガク###Học hiệu: 学校 [がっ こう] : Trường học###Đại học: 大学(だい がく): Đại học###Học sinh: 学生 [がく せい] : Học sinh",
+                "kunyomi_example": "まな*ぶ: học"
+            }
+        ],
+        "2": [
+            {
+                "onyomi_example": "シャ###会社(かいしゃ): công ty###社会(しゃかい): xã hội###神社(じんじゃ): đền thờ Thần đạo",
+                "kunyomi_example": "やしろ###社(やしろ): đền thờ"
+            },
+            {
+                "onyomi_example": "イン###会社員(かいしゃいん): nhân viên cty###社員(しゃいん): nhân viên công ty A###銀行員(ぎんこういん): nhân viên NH###駅員(えきいん): nhân viên nhà ga",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "カイ###会社(かいしゃ): công ty###社会(しゃかい): xã hội###運動会(うんどうかい): lễ hội thể thao",
+                "kunyomi_example": "あ・います: gặp gỡ"
+            },
+            {
+                "onyomi_example": "セン###先生(せんせい): gọi giáo viên###先週(せんしゅう): tuần trước###先月(せんげつ): tháng trước",
+                "kunyomi_example": "さき: trước"
+            },
+            {
+                "onyomi_example": "セイ###先生(せんせい): giáo viên###学生(がくせい): học sinh###生年月日(せいねんがっぴ): ngày tháng năm sinh",
+                "kunyomi_example": "う・みます: sinh (con) う・まれます: được sinh ra"
+            },
+            {
+                "onyomi_example": "コウ、ギョウ###銀行(ぎんこう): ngân hàng###銀行員(ぎんこういん): nhân viên ngân hàng",
+                "kunyomi_example": "い・きます: đi đến ~"
+            },
+            {
+                "onyomi_example": "ライ###来月(らいげつ): tháng tới###将来(しょうらい): tương lai###来日(らいにち): đến Nhật",
+                "kunyomi_example": "き・ます: đến ~"
+            },
+            {
+                "onyomi_example": "シャ###自転車(じてんしゃ): xe đạp###自動車(じどうしゃ): xe ô tô###電車(でんしゃ): tàu điện",
+                "kunyomi_example": "くるま: xe hơi"
+            }
+        ],
+        "3": [
+            {
+                "onyomi_example": "ヒャク、ビャク###Bách niên: 百年(ひゃくねん): Một thế kỷ, 100 năm",
+                "kunyomi_example": "百合(ゆり): Hoa bách hợp"
+            },
+            {
+                "onyomi_example": "セン###Nhị thiên: 二千(にせん): 2000",
+                "kunyomi_example": "ち: ngàn (1000)"
+            },
+            {
+                "onyomi_example": "マン、バン###Vạn niên: 万年(まんねん): Muôn đời, vĩnh cửu",
+                "kunyomi_example": "よろず: Một vạn, nhiều ,tất cả,mọi việc"
+            },
+            {
+                "onyomi_example": "エン###Viên cao: 円高(えんだか): Đồng yên lên giá###Viên chu: 円周(えんしゅう): Chu vi hình tròn",
+                "kunyomi_example": "まるい: vòng tròn; hình cầu まる,giá trị tiền tệ của Nhật: Đồng yên"
+            },
+            {
+                "onyomi_example": "マイ###Mỗi nhật: 毎日(まいにち): Mỗi ngày 毎晩: (まいばん)Hàng tối###Mỗi nguyệt: 毎月(まいつき): Mỗi tháng###Mỗi niên: 毎年(まいとし): Mỗi năm",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ジ###Thời gian: 時間(じかん): Thời gian###Thời kế: 時計(とけい)Đồng hồ",
+                "kunyomi_example": "とき: thời gian; lần; giờ; thường; đúng lúc"
+            },
+            {
+                "onyomi_example": "ブン、フン、ブ###半分(はん ぶん): một nửa",
+                "kunyomi_example": "ふん: phút , わ*ける: chia , わ*かれる: bị chia, わか*る: hiểu"
+            },
+            {
+                "onyomi_example": "ハン###七時半(しち じ はん): 7 rưỡi",
+                "kunyomi_example": "なか＊ば: Một nửa"
+            }
+        ],
+        "4": [
+            {
+                "onyomi_example": "コク###国語: こくご: Quốc ngữ###Quốc gia: 国家(こっ か): Quốc gia, đất nước###Quốc hội: 国会(こっ かい): Quốc hội",
+                "kunyomi_example": "くに: đất nước"
+            },
+            {
+                "onyomi_example": "ゲツ、ガツ###Nguyệt diệu nhật: 月曜日(げつようび): Thứ 2###三月: さんがつ: Tháng 3",
+                "kunyomi_example": "つき: mặt trăng;###がつ: tháng"
+            },
+            {
+                "onyomi_example": "カ###Hỏa diệu nhật: 火曜日(か よう び): Thứ 3###Hỏa sự: 火事(か じ)Hỏa hoạn",
+                "kunyomi_example": "ひ、ほ: lửa, cháy###Hoa hỏa: 花火(はな び): Pháo hoa"
+            },
+            {
+                "onyomi_example": "スイ###Thủy diệu nhật: 水曜日(すい よう び): Thứ 4",
+                "kunyomi_example": "みず: nước; chất lỏng"
+            },
+            {
+                "onyomi_example": "モク###Mộc diệu nhật: 木曜日(もく よう び): Thứ 5",
+                "kunyomi_example": "き: Cây gỗ"
+            },
+            {
+                "onyomi_example": "キン###Kim diệu nhật: 金曜日(きん よう び)Thứ 6",
+                "kunyomi_example": "かな/かね: Tiền, kim loại###お金持ち(かね もち): Giàu có, nhiều thứ"
+            },
+            {
+                "onyomi_example": "ト###Thổ diệu nhật: 土曜日(ど よう び): Thứ 7",
+                "kunyomi_example": "つち: Đất đai###Cách đọc đặc biệt: Thổ sản: 土産(み やげ): Quà"
+            },
+            {
+                "onyomi_example": "ショ###辞書(じ しょ): Từ điển 図書館(と しょ かん): Thư viện",
+                "kunyomi_example": "か＊きます: Viết ,ghi"
+            }
+        ],
+        "5": [
+            {
+                "onyomi_example": "ユウ###友人(ゆうじん): bạn thân###友好(ゆうこう): tình hữu hảo",
+                "kunyomi_example": "とも: bạn###友達(ともだち): bạn bè"
+            },
+            {
+                "onyomi_example": "ネン###Nhị thiên: 二千(にせん): 2000###Niên nguyệt nhật: 年月日 [ねん がっ ぴ] : Ngày tháng năm###Sinh niên nguyệt nhật: 生年月日(せい ねん がっ ぴ)###: Ngày tháng năm sinh###Bách niên: 百年(ひゃくねん): Một thế kỷ.",
+                "kunyomi_example": "とし: năm, tuổi###年寄り(としより): người có tuổi, người già"
+            },
+            {
+                "onyomi_example": "キン·コン###今月(こんげつ): tháng này###今晩(こん ばん): Tối nay###いま: hiện tại, bây giờ",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シュウ###週末(しゅうまつ): cuối tuần###今週(こんしゅう): tuần này",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "キュウ###休憩(きゅうけい): Nghỉ giải lao",
+                "kunyomi_example": "やす*みます: Nghỉ, nghỉ ngơi"
+            },
+            {
+                "onyomi_example": "ゼン###前者(ぜんしゃ): người trước,###người đầu (trong hai người được đề cập)",
+                "kunyomi_example": "まえ: phía trước"
+            },
+            {
+                "onyomi_example": "ゴ###午前(ごぜん): buổi sáng###午後(ごご): buổi chiều",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ゴ、コウ###後輩(こうはい): hậu bối",
+                "kunyomi_example": "あと: sau, nữa, sau đó###のち: sau đó, sau khi, kể từ đó###うし·ろ: phía sau"
+            }
+        ],
+        "6": [
+            {
+                "onyomi_example": "コウ、###Học hiệu: 学校(がっ こう): Trường học###Hiệu trường: 校長(こう ちょう): Hiệu trưởng",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "キ###Quy quốc: 帰国 [き こく] : Sự trở về nước",
+                "kunyomi_example": "かえ*ります: trở về"
+            },
+            {
+                "onyomi_example": "ケン###Ý kiến: 意見(い けん): Ý kiến, quan điểm###Kiến học: 見学(けん がく): Tham quan, kiến tập",
+                "kunyomi_example": "み*ます: nhìn, xem み*えます: có thể thấy###見本(み ほん): Vật mẫu###見事(み ごと): đẹp đẽ, quyến rũ"
+            },
+            {
+                "onyomi_example": "ブン、モン###Tân văn : 新聞(しん ぶん): Báo chí",
+                "kunyomi_example": "き*きます: nghe; chú ý; hỏi###き*こえます: có thể nghe###聞き手(きき て): Người nghe"
+            },
+            {
+                "onyomi_example": "ドク、###読書(どく しょ): Việc đọc sách###Độc giả: 読者 [どく しゃ] : Người đọc",
+                "kunyomi_example": "よ＊みます: đọc, nói###読み方 [よみ かた] : Cách đọc"
+            },
+            {
+                "onyomi_example": "ショク、ジキ###Thực sự: 食事 [しょく じ] : Ăn cơm###Thực trác: 食卓 [しょく たく] : Bàn ăn",
+                "kunyomi_example": "たべます: ăn###く*います: xơi###く*らいます : ăn,###食べ方 [たべ かた] : Cách ăn###食べ物(たべ もの): Đồ uống"
+            },
+            {
+                "onyomi_example": "イン、オン###Ẩm thực: 飲食 [いん しょく] : sự ăn uống###Ẩm tửu: 飲酒 [いんしゅ] : Sự uống rượu",
+                "kunyomi_example": "の*みます: uống###飲物 [のみ もの] : Đồ uống"
+            },
+            {
+                "onyomi_example": "バイ###売店(ばい てん): Quản lý cửa hàng",
+                "kunyomi_example": "か*います: mua###買い手 [かい て] : Người mua###Mãi vật: 買い物 [かい もの] : Sự mua hàng"
+            }
+        ],
+        "7": [
+            {
+                "onyomi_example": "ボ###祖母(そ ぼ): Bà###Mẫu quốc: 母国(ぼ こく): Tổ quốc mình",
+                "kunyomi_example": "はは: Mẹ của mình,###おかあさん: Mẹ của người khác###母親(はは おや): mẹ###お母さん(お かあ さん): mẹ ơi; dùng để khi nói về mẹ của người khác"
+            },
+            {
+                "onyomi_example": "フ###祖父(そ ふ) : Ông",
+                "kunyomi_example": "ちち: Bố của mình###父親(ちち おや): Bố, ba###お父さん(お とう さん): Bố ơi; dùng khi nói về bố của người khác"
+            },
+            {
+                "onyomi_example": "ブツ/モツ###Vật giá: 物価(ぶっ か): Giá cả hàng hóa 荷物 (にもつ): hành lí",
+                "kunyomi_example": "もの: Vật, điều gì, vật thể###食べ物(た べ もの): Đồ ăn###飲み物(の み もの): Đồ uống"
+            },
+            {
+                "onyomi_example": "チョウ###朝礼(ちょうれい): buổi lễ chào buổi sáng (công ty)###朝食(ちょうしょく): bữa ăn sáng",
+                "kunyomi_example": "あさ: buổi sáng###毎朝(まいあさ): hàng sáng 朝ごはん(あさ ごはん): cơm sáng"
+            },
+            {
+                "onyomi_example": "チュウ###昼食(ちゅうしょく): ăn trưa",
+                "kunyomi_example": "ひる: buổi trưa, ban ngày###昼間(ひるま): ban ngày###昼ごはん(ひる ごはん): cơm trưa"
+            },
+            {
+                "onyomi_example": "ャ###夜間(やかん): ban đêm",
+                "kunyomi_example": "よる/よ: đêm###夜(よる): tối, ban đêm###夜中(よなか): nửa đêm, ban đêm 夜ごはん(よるごはん): cơm khuya"
+            },
+            {
+                "onyomi_example": "バン###今晩(こんばん): tối nay###晩ごはん(ばん ごはん): cơm tối",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "チョウ###町村(ちょうそん): thành phố và làng mạc",
+                "kunyomi_example": "まち: thị xã###町(まち): phố"
+            }
+        ],
+        "8": [
+            {
+                "onyomi_example": "サン###Phú sĩ sơn: 富士山(ふじさん): Núi Phú Sĩ",
+                "kunyomi_example": "山(やま): núi###山登り(やまのぼり): Sự leo núi"
+            },
+            {
+                "onyomi_example": "ハク/ビャク###Bạch nhân: 白人(はく じん): Người da trắng.",
+                "kunyomi_example": "白い(しろ い): màu trắng###白髪(しらが): Tóc bạc"
+            },
+            {
+                "onyomi_example": "セキ/シャク###Xích phạn: 赤飯(せきはん): Cơm đỗ đỏ",
+                "kunyomi_example": "赤い(あか い): màu đỏ###赤字(あか じ): Lỗ, thua lỗ###赤ちゃん(あか ちゃん): Trẻ sơ sinh"
+            },
+            {
+                "onyomi_example": "セイ/ショウ###Thanh niên: 青年(せいねん): Thanh niên###Thanh xuân: 青春(せいしゅん): Thanh xuân",
+                "kunyomi_example": "青い(あお い): xanh (da trời, lá cây) xanh xao, còn non###青空(あお ぞら): Bầu trời màu xanh"
+            },
+            {
+                "onyomi_example": "コク###Hắc nhân: 黒人(こく じん): Người da đen###Hắc bảng: 黒板(こく ばん): Bảng đen",
+                "kunyomi_example": "黒い(くろ い)"
+            },
+            {
+                "onyomi_example": "アン###An toàn: 安全(あんぜん): An toàn###An tâm: 安心(あんしん): Yên tâm",
+                "kunyomi_example": "や*すい: rẻ, dễ###安い(やす い): Rẻ"
+            },
+            {
+                "onyomi_example": "コウ###高校(こう こう): Trường cấp ba",
+                "kunyomi_example": "たか*い: cao###高い(たか い): Cao, đắt"
+            },
+            {
+                "onyomi_example": "ショウ###Tiểu học sinh: 小学生(しょうがくせい): Học sinh tiểu học###Tiểu học hiệu: 小学校(しょうがっこう): Trường tiểu học.###Tiểu thuyết: 小説(しょうせつ): Tiểu thuyết",
+                "kunyomi_example": "小さい(ちい さい): Nhỏ###小人(こ びと): Người lùn, người tí hon"
+            }
+        ],
+        "9": [
+            {
+                "onyomi_example": "ダン、ナン###Nam tử: 男子(だん し): Cậu bé###Nam tính: 男性(だん せい): Nam giới",
+                "kunyomi_example": "おとこ: Con trai, đàn ông###男の子(おとこ の こ): Cậu bé"
+            },
+            {
+                "onyomi_example": "ジョ###Nam nữ: 男女(だん じょ): Nam nữ, con trai và con gái###Nữ tính: 女性(じょ せい): Nữ giới###Nữ tử: 女子(じょ し): Người con gái",
+                "kunyomi_example": "おんな: phụ nữ, con gái###女の子(おんな の こ): Cô bé, bé gái"
+            },
+            {
+                "onyomi_example": "ジョウ、ショ###Thượng ký: 上記(じょう き): Điều ở trên###上手(じょう ず): giỏi, khéo",
+                "kunyomi_example": "うえ: Phía trên"
+            },
+            {
+                "onyomi_example": "カ、ゲ###Hạ ký: 下記(か き): Điều viết dưới đây###Hạ thủy: 下水(げ すい): Nước bẩn###Hạ thủ: 下手(へ た): Kém",
+                "kunyomi_example": "した: Phía dưới###下着(した ぎ): quần áo bên trong, quần áo lót"
+            },
+            {
+                "onyomi_example": "サ、シャ###左右(さ ゆう): Trái phải",
+                "kunyomi_example": "ひだり: bên trái###左(ひだり がわ): Bên trái, phía bên trái"
+            },
+            {
+                "onyomi_example": "ウ、ユウ###左右(さ ゆう): Trái phải",
+                "kunyomi_example": "みぎ: Bên phải###右側(みぎ がわ): Bên phải, phái bên phải"
+            },
+            {
+                "onyomi_example": "チュウ###授業中(じゅ ぎょう ちゅう): Trong giờ học###Trung tâm: 中心(ちゅう しん): ở giữa, trung tâm",
+                "kunyomi_example": "なか: ở giữa, bên trong, suốt"
+            },
+            {
+                "onyomi_example": "モン###門(もん): cửa , cổng 専門(せん もん): chuyên môn, chuyên ngành",
+                "kunyomi_example": "かど: cửa, cổng"
+            }
+        ],
+        "10": [
+            {
+                "onyomi_example": "カン、ケン###時間(じかん): thời gian###二日間(ふつかかん): 2 ngày",
+                "kunyomi_example": "あいだ、ま: Khoảng trống, gián đoạn.###間違い(ま ちがい): Sai, nhầm.###間(あいだ): ở giữa"
+            },
+            {
+                "onyomi_example": "キン###最近(さい きん): gần đây",
+                "kunyomi_example": "近い(ちかい): Gần.###近づく(ちか づく): Đến gần, tiếp cận###近道(ちか みち): Đường tắt"
+            },
+            {
+                "onyomi_example": "ギョ###Ngư loại: 魚類(ぎょ るい): Loại cá 人魚(にん ぎょ): Người cá",
+                "kunyomi_example": "さかな: Cá.###魚屋(さかな や): cửa hàng bán cá"
+            },
+            {
+                "onyomi_example": "シュ###Thủ thuật: 手術(しゅ じゅつ): Phẫu thuật, mổ###運転手(うん てん しゅ): Người lái xe",
+                "kunyomi_example": "て: Tay###右手(みぎ て): tay phải###手紙(て がみ): Thư"
+            },
+            {
+                "onyomi_example": "ケン###番犬(ばん けん): Chó canh cổng",
+                "kunyomi_example": "いぬ: Con chó###飼い犬(か い いぬ): chó nuôi"
+            },
+            {
+                "onyomi_example": "ソウ/サッ###Tảo triều: 早朝(そう ちょう): Sáng sớm 早速(さっ そく): ngay lập tức",
+                "kunyomi_example": "早い(はや): Nhanh ,sớm###早く(はや く): nhanh"
+            },
+            {
+                "onyomi_example": "ケイ###時計(と けい): Đồng hồ###計算(けい さん): Tính toán",
+                "kunyomi_example": "計る(はか.る): Đo lường, đo đạc"
+            },
+            {
+                "onyomi_example": "ガイ/ゲ###海外(かい がい): Nước ngoài###外国(がい こく): Nước ngoài 外国語(がい こく ご): Ngôn ngữ nước ngoài",
+                "kunyomi_example": "そと: Bên ngoài,###はず＊れる: rời ra"
+            }
+        ],
+        "11": [
+            {
+                "onyomi_example": "ケイ、キョウ",
+                "kunyomi_example": "あに: anh, お兄さん(Anh người khác)"
+            },
+            {
+                "onyomi_example": "テイ、ダイ、デ###HUYNH ĐỆ: 兄弟 [きょうだい] : anh chị em ruột",
+                "kunyomi_example": "弟(おとうと): em trai"
+            },
+            {
+                "onyomi_example": "シ",
+                "kunyomi_example": "あね: chị gái###お姉さん(ねえ)###お姉さん(おねえさん): chị gái, dùng cho chị gái người khác"
+            },
+            {
+                "onyomi_example": "マイ###姉妹 [しまい] TỶ MUỘI: chị em gái",
+                "kunyomi_example": "妹(いもうと): em gái"
+            },
+            {
+                "onyomi_example": "カ、ケ###家族(か ぞく): gia đình###家賃(や ちん): giá nhà",
+                "kunyomi_example": "家(うえ、うち): nhà ở"
+            },
+            {
+                "onyomi_example": "ゾク###TỘC TRƯỜNG: 族長 [ぞくちょう] : người đứng đầu gia đình, người chủ gia đình###GIA TỘC: 家族 [かぞく] : gia đình, những thành viên trong gia đình",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シュン###新春(しん しゅん): đầu xuân",
+                "kunyomi_example": "春(はる): mùa Xuân###春休み(はるやすみ): kỳ nghỉ xuân"
+            },
+            {
+                "onyomi_example": "カ、ガ、ゲ###春夏秋冬(しゅんかしゅうとう): xuân hạ thu đông",
+                "kunyomi_example": "夏(なつ): mùa hè###夏休み(なつ やす み): kỳ nghỉ hè"
+            }
+        ],
+        "12": [
+            {
+                "onyomi_example": "シュウ",
+                "kunyomi_example": "あき: mùa thu"
+            },
+            {
+                "onyomi_example": "トウ###ĐÔNG KỲ: 冬期 [とうき] : mùa đông, thời kì mùa đông",
+                "kunyomi_example": "ふゆ: mùa đông###ĐÔNG HƯU: 冬休み [ふゆやすみ] : kỳ nghỉ mùa đông"
+            },
+            {
+                "onyomi_example": "テン###天気(てんき): thời tiết",
+                "kunyomi_example": "あめ、あま: trời, tự nhiên, thời tiết"
+            },
+            {
+                "onyomi_example": "キ、ケ###気がつく [きがつく] chú ý đến; nhận ra;###THIÊN KHÍ: 天気 [てんき] : thời tiết",
+                "kunyomi_example": "いき: hơi thở"
+            },
+            {
+                "onyomi_example": "タ###多少(た しょう): một chút###多々(た た): rất nhiều",
+                "kunyomi_example": "おお*い: nhiều; đầy"
+            },
+            {
+                "onyomi_example": "ショウ###THIẾU THIẾU: 少々 [しょうしょう] : chỉ là một chút; số lượng nhỏ###THIẾU: 少しずつ [すこしずつ] : từng chút từng chút, từng tí một, dần dần",
+                "kunyomi_example": "すこ*し: một ít###すく*ない: ít"
+            },
+            {
+                "onyomi_example": "ゲン、ガン###NGUYÊN KHÍ: 元気 [げんき] : sức mạnh; năng lượng",
+                "kunyomi_example": "もと: bắt đầu, nguồn, căn bản"
+            },
+            {
+                "onyomi_example": "ホ、ブ、フ###散歩(さんぽ): đi dạo",
+                "kunyomi_example": "ある*く: đi bộ, bước###/あゆ*む : đi, bước đi, tiến bước"
+            }
+        ],
+        "13": [
+            {
+                "onyomi_example": "ニュウ###入学(にゅう がく): nhập học###入国(にゅう こく): nhập quốc",
+                "kunyomi_example": "入る(はい＊る): Đi vào###入れる(い＊れる): bỏ, cho vào###入り口(い り ぐち): cửa vào"
+            },
+            {
+                "onyomi_example": "シュツ###出欠(しゅっ けつ): điểm danh###出身(しゅっ しん): Xuất thân, gốc tích",
+                "kunyomi_example": "出る(でる): đi ra,ra khỏi###出す(だす): đưa, lấy ra, gửi###出口(で ぐち): cửa ra"
+            },
+            {
+                "onyomi_example": "コウ###広告(こう こく): quảng cáo",
+                "kunyomi_example": "広い(ひろ*い): rộng ひろ*がる: lan rộng###ひろげる: kéo dài; nới rộng###広島(ひろ しま): tỉnh Hiroshima"
+            },
+            {
+                "onyomi_example": "シ###禁止(きん し): Cấm đoán, cấm chỉ",
+                "kunyomi_example": "止める(と*める): cấm###(と*まる): dừng, ngừng lại###(や*める): thôi, bỏ"
+            },
+            {
+                "onyomi_example": "ウ",
+                "kunyomi_example": "あめ: mưa"
+            },
+            {
+                "onyomi_example": "カイ###開設(かいせつ): sự thành lập; mở mang, thiết lập",
+                "kunyomi_example": "あく・ける: mở###ひら*ける: được phát triển###ひら*く: mở, nở (hoa)"
+            },
+            {
+                "onyomi_example": "カイ###海岸(かい がん): ven biển; bãi biển; bờ biển###海外(かい がい): nước ngoài; ở nước ngoài; hải ngoại###地中海(ち ちゅう かい): Địa Trung Hải",
+                "kunyomi_example": "うみ: biển"
+            },
+            {
+                "onyomi_example": "セン###河川(か せん): Sông ngòi",
+                "kunyomi_example": "かわ: con sông"
+            }
+        ],
+        "14": [
+            {
+                "onyomi_example": "セ、セイ###世紀(せい き): thế kỷ; kỷ nguyên",
+                "kunyomi_example": "よ: thời đại"
+            },
+            {
+                "onyomi_example": "カイ###世界: (せ かい): thế giới",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "カク、ガ###画面(が めん): Màn hình, màn ảnh###テレビ画面: Màn hình tivi",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "エイ###映画: (えい が): Phim",
+                "kunyomi_example": "うつ*る: Phản chiếu"
+            },
+            {
+                "onyomi_example": "カ／ケ",
+                "kunyomi_example": "はな: Hoa###花見(はな み): ngắm hoa###生け花(い け ばな): Nghệ thuật cắm hoa"
+            },
+            {
+                "onyomi_example": "チャ、サ###お茶(お ちゃ): trà###茶道(さ どう): trà đạo###茶会(ちゃ かい): tiệc trà, hội trà",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ゴ###外国語(がい こく ご): Tiếng nước ngoài###日本語(に ほん ご): Tiếng Nhật###ベトナム語(ベトナム ご): Tiếng Việt",
+                "kunyomi_example": "かた・る: kể chuyện"
+            },
+            {
+                "onyomi_example": "エイ###英語(えいご): tiếng anh",
+                "kunyomi_example": ""
+            }
+        ],
+        "15": [
+            {
+                "onyomi_example": "タイ/テイ###Thể trọng: 体重(たいじゅう): Cân nặng###Thể lực: 体力(たいりょく): Thể lực, sức khỏe",
+                "kunyomi_example": "からだ: Cơ thể người, thân thể"
+            },
+            {
+                "onyomi_example": "ソク###遠足(えん そく): Chuyến thăm quan, dã ngoại",
+                "kunyomi_example": "あし: chân###たり*る: Đầy, đủ###Túc âm: 足音(あし おと): Tiếng bước chân###Túc nguyên: 足元(あし もと): Dáng đi; khuyết điểm, việc dưới quyền"
+            },
+            {
+                "onyomi_example": "コウ/ク###Khẩu tọa: 口座(こう ざ): Tài khoản",
+                "kunyomi_example": "くち: Cái miệng; cửa###Khẩu xuất: 口出し(くち だ し): Nói chen vào"
+            },
+            {
+                "onyomi_example": "ガン###Nhan diện: 顔面(がん めん): Vẻ mặt bên ngoài.",
+                "kunyomi_example": "かお: Khuôn mặt###Nhan sắc: 顔色(かお いろ): Sắc mặt"
+            },
+            {
+                "onyomi_example": "ジ",
+                "kunyomi_example": "みみ: Cái tai"
+            },
+            {
+                "onyomi_example": "モク###Mục đích: 目的(もくてき): Mục đích",
+                "kunyomi_example": "め: mắt###Mục thượng: 目上(め うえ): Người trên, cấp trên, người trên tuổi###Mục hạ: 目下(め した): Người dưới, cấp dưới, người dưới###Mục giác thời kế: 目覚まし時計(め ざまし どけい): Đồng hồ báo thức."
+            },
+            {
+                "onyomi_example": "リツ/リュウ###国立(こく りつ): Quốc lập",
+                "kunyomi_example": "た*つ: đứng, đứng dậy###たて*る: dựng đứng lên, gây ra###Lập trường: 立場: Quan điểm, lập trường"
+            },
+            {
+                "onyomi_example": "チ###知識(ち しき): Tri thức, kiến thức",
+                "kunyomi_example": "し*る: Biết.###し*らせる: Thông báo###Tri hợp: 知り合い(しり あい): Người quen###Tri nhân: 知らない人(し らない ひと): Người lạ"
+            }
+        ],
+        "16": [
+            {
+                "onyomi_example": "シュウ###住所(じゅう しょ): Địa chỉ###住居(じゅう きょ): nơi ở",
+                "kunyomi_example": "す*みます: sống, ở"
+            },
+            {
+                "onyomi_example": "シ###思想(し そう): ý tưởng",
+                "kunyomi_example": "おも*います: nghĩ###思い出(おも い で): sự hồi tưởng, nhớ lại###思い出します(おも い だ します): nhớ nhung, nhớ về"
+            },
+            {
+                "onyomi_example": "シ###大使館(たい し かん): Đại sứ quán###使用(し よう): Sử dụng",
+                "kunyomi_example": "つか*います: sử dụng"
+            },
+            {
+                "onyomi_example": "サク/サ###作文(さく ぶん): viết văn###作家(さ っか): tác giả, nhà văn",
+                "kunyomi_example": "つく*ります: làm, tạo ra###手作り(て づく り): làm bằng tay, thủ công"
+            },
+            {
+                "onyomi_example": "ヒン###製品(せい ひん): sản phẩm###商品(しょう ひん): hàng hóa, hàng",
+                "kunyomi_example": "しな: hàng hóa###品物(しな もの): hàng hóa, phẩm vật"
+            },
+            {
+                "onyomi_example": "チョウ###クラス長(クラス ちょう): Lớp trưởng###社長(しゃ ちょう): giám đốc",
+                "kunyomi_example": "なが*い: dài###長生き(なが い き): sống lâu"
+            },
+            {
+                "onyomi_example": "メイ/ミョウ###明治(めい じ): thời đại Minh Trị###説明(せつ めい): thuyết minh, thuyết trình",
+                "kunyomi_example": "あか*るい: sáng sủa"
+            },
+            {
+                "onyomi_example": "ニク###豚肉(ぶたにく): thịt lợn###肉(にく): Thịt",
+                "kunyomi_example": ""
+            }
+        ],
+        "17": [
+            {
+                "onyomi_example": "モン###VẤN ĐỀ: 問題(もん だい): Vấn đề###CHÂT VẤN: 質問(しつ もん): Câu hỏi",
+                "kunyomi_example": "と: hỏi, vấn đề と＊います: hỏi###VẤN HỢP: 問い合わせ [と い あ わせ] : Hỏi"
+            },
+            {
+                "onyomi_example": "トウ###GIẢI ĐÁP: 解答(かい とう): Sự trả lời, câu trả lời",
+                "kunyomi_example": "こた＊え: sự (câu) trả lời###こた＊えます: trả lời"
+            },
+            {
+                "onyomi_example": "シン###AN TÂM: 安心 [あん しん] : Sự yên tâm, an tâm###心配(しん ぱい): Lo lắng, sợ hãi###心臓(しん ぞう): Tim",
+                "kunyomi_example": "こころ: Trái tim###心の中 [こころのなか] : Trong tâm trí"
+            },
+            {
+                "onyomi_example": "ハイ###TÂM PHỐI: 心配(しん ぱい): Lo lắng , lo sợ",
+                "kunyomi_example": "くば＊ります: phân phát"
+            },
+            {
+                "onyomi_example": "シ、###子孫(し そん): Con cháu",
+                "kunyomi_example": "こ: con,###子供(こ ども): Trẻ con###女の子(おんなのこ): Con gái###子猫(こ ねこ): Mèo con"
+            },
+            {
+                "onyomi_example": "バイ###PHIẾN MẠI: 販売 [はんばい] : Sự buôn bán###売店(ばい てん): Quầy bán hàng",
+                "kunyomi_example": "う＊ります: bán###売り場(うり ば): Quầy bán hàng"
+            },
+            {
+                "onyomi_example": "ジョウ、チョウ###運動場(うん どう じょう): Sân vận động###駐車場(ちゅう しゃ じょう): Bãi đỗ xe",
+                "kunyomi_example": "ば: nơi chốn###場合 [ばあい] : Trường hợp; tình trạng###売り場(うり ば): Quầy bán hàng"
+            },
+            {
+                "onyomi_example": "ジ###漢字(かん じ): chữ hán###TỰ MẠC: 字幕 [じ まく] : Phụ đề",
+                "kunyomi_example": ""
+            }
+        ],
+        "18": [
+            {
+                "onyomi_example": "カン###HÁN TỰ: 漢字 [かん じ] : Chữ hán",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "リョウ###LIỆU KIM: 料金 [りょう きん] : Phí tổn; chi phí###LIỆU LÝ: 料理 [りょう り] : Thức ăn, món ăn###料理します: Nấu ăn",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "リ###LIỆU LÝ: (りょう り)料理します: Nấu ăn###VẬT LÝ HỌC: 物理学(ぶつ り がく): Môn vật lý",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シュ、ス、シュ###CHỦ NHÂN: 主人 [しゅ じん] : chồng của mình.###主婦(しゅ ふ): Vợ",
+                "kunyomi_example": "おも: chính yếu, chủ yếu###ぬし: đứng đầu"
+            },
+            {
+                "onyomi_example": "チャク、###到着(とう ちゃく): Sự đến, đến nơi",
+                "kunyomi_example": "き＊ます: mặc、 つ＊きます: đến###****HẠ TRƯỚC: 下着 [した ぎ] : Quần áo lót"
+            },
+            {
+                "onyomi_example": "シン###TÂN VĂN: 新聞 [しん ぶん] : Báo chí###TỐI TÂN: 最新 [さい しん] : Mới nhất",
+                "kunyomi_example": "あたら＊しい: mới###あら＊た: tươi mới, mới mẻ"
+            },
+            {
+                "onyomi_example": "コ###中古(ちゅう こ): Đồ second hand, đồ cũ",
+                "kunyomi_example": "ふる*い: cũ ふる*します: hao mòn, cũ đi###古い(ふる い): Cũ"
+            },
+            {
+                "onyomi_example": "ジ",
+                "kunyomi_example": "も＊ちます: có được,mang###持ち物(も ち もの): Đồ mang theo, Đồ sở hữu###持って行きます: Mang đi"
+            }
+        ],
+        "19": [
+            {
+                "onyomi_example": "デン###ĐIỆN KHÍ: 電気 [でん き] : điện; (điện) ánh sáng###ĐIỆN XE: 電車(でん しゃ): Xe điện",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ワ###HỘI THOẠI: 会話(かい わ): Hội thoại###ĐIỆN THOẠI: 電話(でん わ): Điện thoại###電話をかけます: Gọi điện thoại",
+                "kunyomi_example": "はな＊し: câu chuyện, はな＊す: nói###TẢ THOẠI: 昔話(むかし ばなし): Truyên dân gian, truyện cổ tích"
+            },
+            {
+                "onyomi_example": "オン、###ÂM LẠC: 音楽 [おん がく] : âm nhạc",
+                "kunyomi_example": "おと: tiếng động, âm thanh"
+            },
+            {
+                "onyomi_example": "ガク、ラク、###ÂM LẠC: 音楽 [おん がく] : âm nhạc",
+                "kunyomi_example": "たの＊しい: Vui vẻ###楽しい(たの しい): Vui vẻ"
+            },
+            {
+                "onyomi_example": "カ###CA THỦ : 歌手 [かしゅ] : ca sĩ",
+                "kunyomi_example": "うた: bài hát ,###うた＊ います: hát###歌を歌います(うたをうた います): Hát bài hát"
+            },
+            {
+                "onyomi_example": "ド###NHẤT ĐỘ: 一度(いち ど): một lần, một lượt, một dịp###今度(こん ど): Lần sau",
+                "kunyomi_example": "たび: lần###度々 (たびたび): thường xuyên"
+            },
+            {
+                "onyomi_example": "キョウ###GIÁO THẤT: 教室 [きょうしつ] : phòng học, lớp học, giảng đường###GIÁO SƯ: 教師 [きょうし] : giáo viên",
+                "kunyomi_example": "おし＊えます: dạy, dạy học, chỉ dẫn###教え [おしえ] : sự giảng dạy, sự dạy dỗ"
+            },
+            {
+                "onyomi_example": "シュウ###練習(れん しゅう): Luyện tập###復習(ふく しゅう): Ôn tập",
+                "kunyomi_example": "なら＊います: học, thực hành"
+            }
+        ],
+        "20": [
+            {
+                "onyomi_example": "タイ###賃貸(ちん たい): Sự cho thuê",
+                "kunyomi_example": "か＊します: cho vay###お金を貸します: Cho mượn tiền"
+            },
+            {
+                "onyomi_example": "シャク###TÁ KIM: 借金 [しゃっきん] : món nợ, tiền vay",
+                "kunyomi_example": "か＊ります: vay, mượn###お金を借ります: Mượn tiền"
+            },
+            {
+                "onyomi_example": "ソウ###TỐNG KIM: 送金 [そう きん] : sự gửi tiền, sự chuyển tiền, tiền gửi###送料(そう りょう): Phí gửi###送別会(そう べつ かい): Tiệc chia tay",
+                "kunyomi_example": "おく＊ります: tiễn đưa, gửi đi###TỐNG CHỦ: 送り主 [おくりぬし] : người gửi"
+            },
+            {
+                "onyomi_example": "キョウ、ゴウ###勉強(べん きょう): Học",
+                "kunyomi_example": "つよ＊い: mạnh###つよ＊めます: làm mạnh"
+            },
+            {
+                "onyomi_example": "ベン###勉強(べん きょう): Học###***",
+                "kunyomi_example": "勉めて [つとめて] : càng nhiều càng tốt, tích cực, siêng năng"
+            },
+            {
+                "onyomi_example": "リョ###LỮ HÀNH: 旅行 [りょこう] : du lịch###LỮ HÀNH GIẢ: 旅行者 [りょこうしゃ] : khách du lịch",
+                "kunyomi_example": "たび: chuyến đi, hành trình, chuyến du lịch"
+            },
+            {
+                "onyomi_example": "シツ###GIÁO THẤT: 教室 [きょうしつ] : phòng học, giảng đường###会議室(かい ぎ しつ): phòng họp, phòng hội nghị",
+                "kunyomi_example": "しつ: phòng###** むろ: nhà kính"
+            },
+            {
+                "onyomi_example": "トウ、ト、ドウ###ĐĂNG SƠN: 登山 [とざん] : leo núi",
+                "kunyomi_example": "のぼ＊ります: leo trèo, lên cao###登る(のぼ る): trèo,leo, đăng lên, được đưa lên"
+            }
+        ],
+        "21": [
+            {
+                "onyomi_example": "フ/ブ###Bất hợp cách: 不合格(ふ ごう かく): Trượt, không đỗ###Bất an: 不安(ふ あん): Bất an, lo lắng.",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シ###開始(かいし): sự khởi đầu, sự bắt đầu###始業式(しぎょうしき): lễ khai trương",
+                "kunyomi_example": "始(はじ)*める: bắt đầu はじ*まる: được bắt đầu"
+            },
+            {
+                "onyomi_example": "ゲン/ゴン###Ngôn ngữ: 言語(げんご): Ngôn ngữ",
+                "kunyomi_example": "い*う: nói###言い訳(い い わけ): Lý do, lý trấu, biện bạch###言い方(い い かた): Cách nói, cách diễn đạt."
+            },
+            {
+                "onyomi_example": "イ###Ý kiến: 意見(い けん): Ý kiến,quan điểm###Ý khẩu: 意味(い み): Ý nghĩa###Ý ngoại: 以外(い がい): Bất ngờ, ngoài dự tính",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ジ/シ###Sự thực: 事実(じじつ): Sự thực,thực tế###Sự cố: 事故(じこ): Tai nạn, sự cố.###事件(じ けん): Sự việc, sự kiện",
+                "kunyomi_example": "こと: Việc, vấn đề###Sĩ sở: 仕事(し ごと): Công việc, nghề nghiệp"
+            },
+            {
+                "onyomi_example": "シ###Sĩ sở: 仕事(し ごと): Công việc, nghề nghiệp",
+                "kunyomi_example": "つ*かえる: làm việc, cung cấp, bị tắc/nghẹt"
+            },
+            {
+                "onyomi_example": "ビョウ/ヘイ###Bệnh khí: 病気(びょう き): Ốm, mệt###Bệnh viện: 病院(びょう いん): Bệnh viện###Bệnh nhân: 病人(びょう にん): Người bệnh, bệnh nhân.",
+                "kunyomi_example": "や*む: mắc bệnh###や*まい: Nhược điểm, thói xấu###病み上がり(や み あ がり): Phục hồi, lại sức"
+            },
+            {
+                "onyomi_example": "イン###Bệnh viện: 病院(びょう いん): Bệnh viện###Viện trưởng: 院長(いん ちょう): Giám đốc bệnh viện",
+                "kunyomi_example": ""
+            }
+        ],
+        "22": [
+            {
+                "onyomi_example": "イ###Y giả: 医者(い しゃ): Bác sĩ",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シャ###研究者(けん きゅう しゃ): Người nghiên cứu###Ký giả: 記者(き しゃ): Phóng viên.",
+                "kunyomi_example": "もの: người"
+            },
+            {
+                "onyomi_example": "ドウ###Thực đường: 食堂(しょく どう): Nhà ăn",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "オク###Ốc ngoại: 屋外(おく がい): Phòng ngoài###Ốc thượng: 屋上(おく じょう): Tầng thượng, nóc nhà",
+                "kunyomi_example": "や: mái nhà###パン屋(パンや): Cửa hàng bánh mì 本屋(ほんや): Cửa hàng sách###屋根(やね): Mái nhà###部屋(へ や): Căn phòng"
+            },
+            {
+                "onyomi_example": "ヨウ###Sự thực: 使用(し よう): Sử dụng###Dụng sự: 用事(よう じ): Việc bận.",
+                "kunyomi_example": "もち*いる: dùng"
+            },
+            {
+                "onyomi_example": "ユウ/ウ###Hữu danh: 有名(ゆう めい): Nổi tiếng",
+                "kunyomi_example": "あ*る: ở; có"
+            },
+            {
+                "onyomi_example": "テン###売店(ばい てん): Quầy bán hàng###Điếm viên: 店員(てん いん): Nhân viên bán hàng###店長(てん ちょう): Chủ cửa hàng, quản lý nhà hàng",
+                "kunyomi_example": "みせ: cửa hàng###店(みせ): Cửa hàng"
+            },
+            {
+                "onyomi_example": "ミン###住民(じゅう みん): Dân cư###国民(こく みん): Quốc dân",
+                "kunyomi_example": "たみ: người dân"
+            }
+        ],
+        "23": [
+            {
+                "onyomi_example": "セイ, ショウ###CHÍNH VIÊN: 正社員 [せいしゃいん] : Nhân viên chính thức###Chính nguyệt: お正月(おしょう がつ): Tết",
+                "kunyomi_example": "ただ＊しい: đúng, ngay thẳng###正しい(ただ しい): Chính xác"
+            },
+            {
+                "onyomi_example": "ギン###NGÂN SẮC: 銀色 [ぎんいろ] : màu bạc, màu óng ánh như bạc###Ngân hành: 銀行(ぎん こう): Ngân hàng",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ズ、ト###Địa đồ: 地図(ち ず): Bản đồ###ĐỒ THƯ QUÁN: 図書館 [と しょ かん] : thư viện###大使館(たい し かん): Đại sứ quán",
+                "kunyomi_example": "はか*る: mưu tính, tính toán"
+            },
+            {
+                "onyomi_example": "カン###QUÁN VIÊN: 館員 [かん いん] : nhân sự (nhân viên nhà nước)###ĐỒ THƯ QUÁN: 図書館 [と しょ かん] : thư viện",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ドウ、トウ###Kiếm đạo: 剣道(けん どう): Kiếm đạo###Trà đạo: 茶道(さ どう): Trà đạo",
+                "kunyomi_example": "みち: con đường"
+            },
+            {
+                "onyomi_example": "ジ###自由(じゆう): tự do###自動(じどう): tự động",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ドウ###ĐỘNG VẬT: 動物(どう ぶつ): động vật###運動(うん どう): Vận động",
+                "kunyomi_example": "うご＊く: hoạt động###うご＊かす: di chuyển, chạy máy"
+            },
+            {
+                "onyomi_example": "ケン、コン###Kiến trúc: 建築 [けん ちく] : xây dựng",
+                "kunyomi_example": "た＊てる: xây cất た＊つ: được xây"
+            }
+        ],
+        "24": [
+            {
+                "onyomi_example": "トク###特に [とくに] : đặc biệt, đặc biệt là###ĐẶC BIỆT: 特別 [とく べつ] : đặc biệt###ĐẶC CẤP: 特急 [とっきゅう] : Tốc hành",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シュウ###最終(さい しゅう): Sau cùng, cuối cùng",
+                "kunyomi_example": "おわ＊る/おえ＊る:###chấm dứt, xong, hoàn thành.###終り [おわり] : Kết thúc###終わり頃(おわりごろ): Lúc kết thúc,lúc xong"
+            },
+            {
+                "onyomi_example": "エキ###東京駅(とう きょう えき): Ga TOKYO###DỊCH TIỀN: 駅前 [えきまえ] : Trước nhà ga",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シャ, ジャ###Tả chân: 写真(しゃ しん): Bức ảnh",
+                "kunyomi_example": "うつ.す, うつ.る, うつ-うつ.し: miêu tả; sao chép, copy"
+            },
+            {
+                "onyomi_example": "シン###写真(しゃ しん): Bức ảnh",
+                "kunyomi_example": "ま, ま-, まこと: thật /thực/đúng/thuần tuý"
+            },
+            {
+                "onyomi_example": "ギュウ###Thủy ngưu: 水牛(すい ぎゅう): con trâu###牛肉(ぎゅう にく): Thịt bò",
+                "kunyomi_example": "うし: con bò"
+            },
+            {
+                "onyomi_example": "リン###Sơn lâm: 山林(さん りん): Núi rừng",
+                "kunyomi_example": "はやし: rừng thưa"
+            },
+            {
+                "onyomi_example": "シン###森林(しん りん): Rừng",
+                "kunyomi_example": "もり: rừng rậm"
+            }
+        ],
+        "25": [
+            {
+                "onyomi_example": "デン###田園(でん えん): RUỘNG VƯỜN",
+                "kunyomi_example": "た: RUỘNG LÚA###田舎(い なか): nông thôn,vùng quê###田んぼ(た んぼ): Ruộng nước"
+            },
+            {
+                "onyomi_example": "コウ###参考(さんこう): tham khảo###考古学(考古学): khảo cổ học",
+                "kunyomi_example": "かんが＊える: Suy nghĩ###考え方(かんがえかた): cách suy nghĩ"
+            },
+            {
+                "onyomi_example": "シン###親友(しん ゆう): bạn thân,tri kỉ",
+                "kunyomi_example": "おや: bố mẹ###した＊しい: thân thiết, gần gũi"
+            },
+            {
+                "onyomi_example": "セツ/サイ###親切(しん せつ): thân thiết",
+                "kunyomi_example": "き＊れる: có thể cắt,hết sạch###切手(きっ て): tem###パンを切る(き る): Cắt bánh mì"
+            },
+            {
+                "onyomi_example": "シ###試合(し あい): trận đấu, cuộc thi",
+                "kunyomi_example": "こころ＊みる: thi,thử,nếm###ため＊す: thi,thử,nếm"
+            },
+            {
+                "onyomi_example": "ケン/ゲン###試験(し けん): Bài kiểm tra###経験(けい けん): Kinh nghiệm",
+                "kunyomi_example": "##験(しるし): (1) đánh dấu;(2) ký hiệu;(3) bằng chứng"
+            },
+            {
+                "onyomi_example": "ブ###部下(ぶか): cấp dưới###部長(ぶちょう): trưởng phòng###部門(ぶもん): phân loại; nhóm; phạm trù; ban",
+                "kunyomi_example": "##部屋(へ や): căn phòng"
+            },
+            {
+                "onyomi_example": "ブン/モン###文化(ぶん か): văn hóa###文型(ぶん けい): mẫu ngữ pháp",
+                "kunyomi_example": "ふみ: văn thư###文句(もん く): phàn nàn, kêu ca"
+            },
+            {
+                "onyomi_example": "サイ/セイ: tuổi###十七歳(じゅう なな さい): 17 tuổi",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "リュウ／ル###留学(りゅう がく): du học###留学生(りゅう がく せい): du học sinh###留守(る す): sự vắng nhà",
+                "kunyomi_example": "と＊める: đóng(gắn)vào###と＊まる: ở lại###書留(かき とめ): Gửi bảo đảm"
+            },
+            {
+                "onyomi_example": "ギ###会議(かい ぎ): cuộc họp",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "サン###散歩(さん ぽ)する: đi dạo",
+                "kunyomi_example": "ち＊らかす: tán ra, tản ra###ち＊らかる: nằm rải rác"
+            },
+            {
+                "onyomi_example": "ヨク###浴衣(ゆかた): áo kimono đơn giản mặc vào mùa hè",
+                "kunyomi_example": "あ＊びる: tắm###シャワーを浴びる(あ びる): Tắm vòi hoa sen"
+            },
+            {
+                "onyomi_example": "コウ／ゴ",
+                "kunyomi_example": "お＊りる: xuống xe###お＊ろす: cho xuống,bác bỏ###ふ＊る: rơi (mưa, tuyết)###バスを降りる(お りる): Xuống xe bus###雨が降る(ふ る): Mưa rơi"
+            },
+            {
+                "onyomi_example": "ヨク###食欲(しょく よく): cảm giác muốn ăn, thèm ăn",
+                "kunyomi_example": "ほ＊しい: thích,muốn###欲しい(ほ しい): muốn"
+            },
+            {
+                "onyomi_example": "オク: 1 trăm triệu (100.000.000)###一億円(いち おく えん): 1 trăm triệu yên",
+                "kunyomi_example": ""
+            }
+        ],
+        "26": [
+            {
+                "onyomi_example": "アク/オ###最悪(さい あく): xấu nhất, tồi tệ nhất",
+                "kunyomi_example": "わる・い: Xấu###天気が悪い(てん き が わる い): thời tiết xấu"
+            },
+            {
+                "onyomi_example": "キュウ###急行(きゅう こう): tàu tốc hành",
+                "kunyomi_example": "いそ・ぐ: vội, gấp"
+            },
+            {
+                "onyomi_example": "キョ###去年(きょ ねん): năm ngoái###過去(か こ): quá khứ",
+                "kunyomi_example": "さ・る: ra đi; bỏ đi; đi xa; rời xa"
+            },
+            {
+                "onyomi_example": "シ###コピー用紙(よう し): mẫu giấy copy (A4, A5...)###紙幣(し へい): tiền giấy",
+                "kunyomi_example": "かみ: giấy###手紙(て がみ): thư"
+            },
+            {
+                "onyomi_example": "ケン###千葉県(ち ば けん): Tỉnh Chiba",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ト/ツ###都合(つ ごう): điều kiện,tình trạng###首都(しゅ と): thủ đô###東京都(とう きょう と): TOKYO",
+                "kunyomi_example": "みやこ: thủ đô###芸術の都(げい じゅつ の みやこ): kinh đô###nghệ thuật (thường dùng để chỉ PARI - thủ đô của Pháp)"
+            },
+            {
+                "onyomi_example": "ガツ/コウ###合計(ごうけい): tổng cộng###合格(ごうかく): đỗ, đạt",
+                "kunyomi_example": "あ・う: hợp"
+            },
+            {
+                "onyomi_example": "ソク###速達(そく たつ): chuyển phát nhanh###速記(そっ き): tốc kí, sự ghi chép nhanh",
+                "kunyomi_example": "はや・い: nhanh###はや・める: làm cho nhanh###快速(かい そく): nhanh chóng, cực nhanh, siêu tốc"
+            },
+            {
+                "onyomi_example": "ジキ/チョク###正直(しょう じき): thẳng thắn,trung thực###直面(ちょく めん): trực diện",
+                "kunyomi_example": "なお・す: sửa chữa, ただ・ちに: ngay lập tức"
+            },
+            {
+                "onyomi_example": "セツ###直接(ちょく せつ): trực tiếp###間接(かん せつ): gián tiếp",
+                "kunyomi_example": "つ・ぐ: nối"
+            },
+            {
+                "onyomi_example": "トウ###熱湯(ねっ とう): nước sôi",
+                "kunyomi_example": "ゆ: nước sôi###お湯(お ゆ): nước nóng, nước sôi###湯気(ゆ げ): hơi nước"
+            },
+            {
+                "onyomi_example": "タン###探検(たん けん): sự thám hiểm",
+                "kunyomi_example": "さが・す: tìm kiếm###探し物(さが し もの): đồ vật tìm kiếm"
+            },
+            {
+                "onyomi_example": "ヘイ###平均(へいきん): trung bình###平気(へいき): không sao, ổn",
+                "kunyomi_example": "たいら: công bằng"
+            },
+            {
+                "onyomi_example": "ジ###金閣寺(きん かく じ): chùa Kim Các Tự ( xây năm 1397)",
+                "kunyomi_example": "てら: chùa###お寺(お てら): Chùa"
+            },
+            {
+                "onyomi_example": "ショウ###優勝(ゆう しょう): thắng lợi hoàn toàn",
+                "kunyomi_example": "か・つ: thắng###まさ・る: trội hơn"
+            },
+            {
+                "onyomi_example": "フ、ブ###勝負 [しょう ぶ] : thắng thua (chiến thắng hoặc thất bại)###負担 [ふ たん] : gánh vác, trách nhiệm",
+                "kunyomi_example": "ま・ける: thua"
+            },
+            {
+                "onyomi_example": "ガン###NGUYỆN THƯ 願書(がん しょ): đơn xin; bản kiến nghị",
+                "kunyomi_example": "ねが・う: xin###願い事(ねが い ごと): việc thỉnh cầu, việc yêu cầu"
+            },
+            {
+                "onyomi_example": "ザ###正座(せい ざ): ngồi ngay ngắn",
+                "kunyomi_example": "すわ・る: ngồi xuống"
+            },
+            {
+                "onyomi_example": "ミン###THỤY MIÊN 睡眠(すい みん): việc ngủ, giấc ngủ",
+                "kunyomi_example": "ねむ・い: buồn ngủ"
+            },
+            {
+                "onyomi_example": "キョウ、コウ",
+                "kunyomi_example": "せま・い: hẹp###せば・まる/める: hẹp, thắt nhỏ dần lại, thu hẹp lại"
+            },
+            {
+                "onyomi_example": "カン###甘味料(かん み りょう): chất tạo ngọt, đường hóa học",
+                "kunyomi_example": "あま・い: ngọt###あま・える: dỗ; tán###あま・やかす: được chiều"
+            },
+            {
+                "onyomi_example": "シン###香辛料(こう しん りょう): hương vị làm gia vị, chất tạo mùi",
+                "kunyomi_example": "から・い: cay, đắng cay###つら・い: khổ cực, khổ đau"
+            },
+            {
+                "onyomi_example": "ラン###卵白(らん ぱく): lòng trắng trứng",
+                "kunyomi_example": "たまご: trứng"
+            },
+            {
+                "onyomi_example": "シュウ",
+                "kunyomi_example": "ひろ・う: nhặt, lượm"
+            }
+        ],
+        "27": [
+            {
+                "onyomi_example": "ギョウ、ゴウ###農業(のう ぎょう): nông nghiệp###授業(じゅ ぎょう): giờ học",
+                "kunyomi_example": "わざ: kĩ năng, kĩ thuật"
+            },
+            {
+                "onyomi_example": "チョウ###白鳥(はく ちょう): thiên nga",
+                "kunyomi_example": "とり: chim"
+            },
+            {
+                "onyomi_example": "ツウ、ツ###交通(こう つう): giao thông",
+                "kunyomi_example": "とお・る: đi qua###かよ・う: đi lại"
+            },
+            {
+                "onyomi_example": "ミ###調味料(ちょう み りょう): gia vị###意味(い み): ý nghĩa",
+                "kunyomi_example": "あじ: vị###味見(あじ み): nếm thử"
+            },
+            {
+                "onyomi_example": "ウン###運命(うん めい): vận mệnh###運動(うん どう): vân động",
+                "kunyomi_example": "はこ・ぶ: vận chuyển"
+            },
+            {
+                "onyomi_example": "テン###運転(うん てん): vận chuyển, lái xe###自転車(じ てん しゃ): xe đạp###転勤(てん きん): chuyển chi nhánh làm việc",
+                "kunyomi_example": "ころ・がす: lăn, làm cho đổ nhào###ころ・ぶ: ngã"
+            },
+            {
+                "onyomi_example": "リョク、リキ###能力(のう りょく): năng lực###学力(がく りょく): học lực",
+                "kunyomi_example": "ちから: sức mạnh"
+            },
+            {
+                "onyomi_example": "シキ",
+                "kunyomi_example": "いろ: màu###黄色(き いろ): màu vàng"
+            },
+            {
+                "onyomi_example": "グ###道具(どうぐ): dụng cụ###家具(かぐ): đồ đạc gia đình###具合(ぐあい): tình trạng",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シュ###取得(しゅ とく): thu nhập",
+                "kunyomi_example": "と・る: lấy"
+            },
+            {
+                "onyomi_example": "カ###集荷(しゅう か): gom hàng###入荷(にゅうか): nhập hàng",
+                "kunyomi_example": "に###荷物(に もつ): hành lí"
+            },
+            {
+                "onyomi_example": "カン###簡単(かん たん): đơn giản",
+                "kunyomi_example": ""
+            }
+        ],
+        "28": [
+            {
+                "onyomi_example": "タン###単位(たん い): đơn vị###簡単(かん たん): đơn giản",
+                "kunyomi_example": "ひとえ: đơn độc, một mình"
+            },
+            {
+                "onyomi_example": "カク###感覚(かん かく): cảm giác",
+                "kunyomi_example": "おぼ・える: nhớ###さ・める: tỉnh ngộ"
+            },
+            {
+                "onyomi_example": "ハン###販売(はん ばい): buôn bán",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ボウ/モウ###多忙(た ぼう): rất bận, bận rồi",
+                "kunyomi_example": "いそが・しい: Bận"
+            },
+            {
+                "onyomi_example": "キュウ###給料(きゅう りょう): lương###給食(きゅう しょく): cơm được cung cấp , được phát",
+                "kunyomi_example": "たま・う: nhận trợ cấp"
+            },
+            {
+                "onyomi_example": "ジツ・シツ###実は(じつは): thực ra là###事実(じじつ): sự thật",
+                "kunyomi_example": "みの・る: hoàn thành, có KQ"
+            },
+            {
+                "onyomi_example": "リョウ###清涼(せい りょう): cảm giác tươi mát",
+                "kunyomi_example": "すず・しい: mát mẻ"
+            },
+            {
+                "onyomi_example": "ショウ###将来(しょう らい): tương lai",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ム###夢中(む ちゅう): say mê, đắm chìm",
+                "kunyomi_example": "ゆめ: giấc mơ"
+            },
+            {
+                "onyomi_example": "ヒ###疲労(ひ ろう): mệt mỏi",
+                "kunyomi_example": "つか・れる: mệt"
+            },
+            {
+                "onyomi_example": "ツウ###頭痛(ず つう): cơn đau đầu, đau đầu",
+                "kunyomi_example": "いた・い: đau"
+            },
+            {
+                "onyomi_example": "ヒ",
+                "kunyomi_example": "かれ: bạn trai,anh ấy###彼氏(かれ し): bạn trai###彼女(かの じょ): bạn gái, cô ấy"
+            }
+        ],
+        "29": [
+            {
+                "onyomi_example": "チ/ジ###地図(ち ず): bản đồ###地震(じ しん): động đất",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ソウ###走者(そう しゃ): vận động viên chạy đua",
+                "kunyomi_example": "はし・る: chạy"
+            },
+            {
+                "onyomi_example": "シュウ###募集(ぼ しゅう): tuyển dụng###収集(しゅう しゅう): thu thập, tập hợp",
+                "kunyomi_example": "あつ・める: sưu tầm###あつ・まる: được sưu tầm"
+            },
+            {
+                "onyomi_example": "ケン###研修(けん しゅう): thực tập",
+                "kunyomi_example": "と・ぐ: gọt, giũa; vo (gạo)"
+            },
+            {
+                "onyomi_example": "キュウ###研究(けん きゅう): nghiên cứu",
+                "kunyomi_example": "きわ・める: tìm tòi kỹ lưỡng"
+            },
+            {
+                "onyomi_example": "ヨウ###～曜日(～よう び): thứ ~ (ngày trong tuần)",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ジュウ・チョウ###重要(じゅう よう): trọng yếu, sự quan trọng###重大(じゅう だい): quan trọng, trọng đại###尊重、貴重",
+                "kunyomi_example": "おも・い: nặng"
+            },
+            {
+                "onyomi_example": "チ###電池(でん ち): pin",
+                "kunyomi_example": "いけ: ao"
+            },
+            {
+                "onyomi_example": "ケイ/キョウ###人形(にん ぎょう): búp bê###て形",
+                "kunyomi_example": "かたち: hình dạng"
+            },
+            {
+                "onyomi_example": "オウ###横断(おう だん): lối qua đường (cho người đi bộ)",
+                "kunyomi_example": "よこ: Nằm ngang"
+            },
+            {
+                "onyomi_example": "キョウ###歩道橋(ほ どう きょう): cầu vượt, cầu cho người đi bộ",
+                "kunyomi_example": "はし: cầu###心斎橋(しん さい ばし): tên 1 địa danh ở Osaka"
+            },
+            {
+                "onyomi_example": "ケツ###決心(けっ しん): quyết tâm###決定(けっ てい): quyết định###解決(かい けつ): giải quyết",
+                "kunyomi_example": "き・める: quyết định###き．まる: được quy định"
+            }
+        ],
+        "30": [
+            {
+                "onyomi_example": "ヒ###是非(ぜひ): nhất định###非常(ひじょう): vô cùng, rất",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ジョウ###非常口(ひじょうぐち): cửa thoát hiểm###常識(じょうしき): kiến thức thông thường###日常(にちじょう): hàng ngày, thường ngày",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ボウ###忘却(ぼう きゃく): lãng quên",
+                "kunyomi_example": "わす・れる: quên###忘れ物(わす れ もの): đồ bị bỏ quên"
+            },
+            {
+                "onyomi_example": "チ###位置(い ち): vị trí",
+                "kunyomi_example": "お・く: đặt, để###置き場(お き ば): chỗ đặt,để"
+            },
+            {
+                "onyomi_example": "ジュ###授業(じゅ ぎょう): giờ học###教授(きょう じゅ): giáo dục, giảng dạy",
+                "kunyomi_example": "さずけ・る: truyền thụ, ban tặng###さずか・る: thu được, lĩnh được"
+            },
+            {
+                "onyomi_example": "ギ###技能(ぎ のう): kĩ năng###技術(ぎ じゅつ): kĩ Thuật###技師(ぎし)",
+                "kunyomi_example": "わざ: kĩ năng"
+            },
+            {
+                "onyomi_example": "ジュツ###技術(ぎ じゅつ): kĩ Thuật###美術(びじゅつ): mỹ thuật###手術(しゅじゅつ): phẫu thuật",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シ###資料(しりょう): tài liệu###資本(しほん): vốn###資源(しげん): tài nguyên",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ルイ###分類(ぶんるい): phân loại###書類(しょるい): giấy tờ, tài liệu###種類(しゅるい): chủng loại###人類(じんるい): nhân loại",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "フク###回復(かい ふく): hồi phục###復習(ふくしゅう): ôn tập",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ショく###植物(しょく ぶつ): thực vật; cây cối",
+                "kunyomi_example": "う・える: trồng(cây)###植木(うえ き ): cây trồng"
+            },
+            {
+                "onyomi_example": "キ",
+                "kunyomi_example": "つくえ: bàn"
+            }
+        ],
+        "31": [
+            {
+                "onyomi_example": "トウ###東京(とう きょう): Tokyo###関東地方(かん とう ち ほう): Vùng KANTO",
+                "kunyomi_example": "ひがし: phía đông"
+            },
+            {
+                "onyomi_example": "セイ/サイ###関西地方(かん さい ち ほう): Vùng KANSAI###西洋(せい よう): Phương tây, các nước phương Tây",
+                "kunyomi_example": "にし: phía tây"
+            },
+            {
+                "onyomi_example": "ナン###東南アジア(とう なん): Đông Nam Á",
+                "kunyomi_example": "みなみ: phía nam"
+            },
+            {
+                "onyomi_example": "ホク###北海道(ほっ かい どう): Vùng Hokkaido",
+                "kunyomi_example": "きた: phía bắc###北国(きた ぐに): các nước phương Bắc"
+            },
+            {
+                "onyomi_example": "シ###市長(し ちょう): thị trưởng###市民(し みん): thị dân; dân thành phố###市役所(し やく しょ): tòa hành chính",
+                "kunyomi_example": "いち###市場(いち ば): chợ"
+            },
+            {
+                "onyomi_example": "フウ/フ###台風(たい ふう): bão, gió to###強風(きょう ふう): gió mạnh, bão",
+                "kunyomi_example": "かぜ: gió###北風(きた かぜ): gió bắc"
+            },
+            {
+                "onyomi_example": "セキ",
+                "kunyomi_example": "ゆう###夕方(ゆう がた): chiều tối"
+            },
+            {
+                "onyomi_example": "クウ###空港(くう こう): sân bay###空気(くう き): không khí",
+                "kunyomi_example": "そら: bầu trời###あ・く: trống rỗng,rảnh###す・く: đói###から: trống###青空(あお ぞら): bầu trời xanh"
+            },
+            {
+                "onyomi_example": "ク: khu; khu vực; quận; hạt###区別(く べつ): sự phân biệt###区間(く かん): phân đoạn; khoảng cách###新宿区(しんじゅくく): quận Shinjyuku",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "セイ###晴天(せい てん): trời quang đãng",
+                "kunyomi_example": "は・(れる/らす/れ)###: trời quang; không mưa"
+            },
+            {
+                "onyomi_example": "セイ/ショウ###火星(か せい): Sao hỏa",
+                "kunyomi_example": "ほし: sao"
+            },
+            {
+                "onyomi_example": "ネツ###発熱(はつ ねつ): sự phát nhiệt , sốt###熱心(ねっ しん): nhiệt tình",
+                "kunyomi_example": "あつ・い: nóng"
+            }
+        ],
+        "32": [
+            {
+                "onyomi_example": "ヤク: khoảng; xấp xỉ###予約(よ やく): Đặt trước###約束(やく そく): Cuộc hẹn, lời hứa",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ソク###約束(やく そく): Hứa hẹn, cam đoan",
+                "kunyomi_example": "たば/つか: bó; búi; cuộn###花束(はなたば): bó hoa"
+            },
+            {
+                "onyomi_example": "ジ###辞書(じ しょ): Từ điển",
+                "kunyomi_example": "や・める: từ bỏ"
+            },
+            {
+                "onyomi_example": "レン###練習(れん しゅう): luyện tập",
+                "kunyomi_example": "ね・る: gọt giũa; trau chuốt"
+            },
+            {
+                "onyomi_example": "ヘン###返事(へん じ): sự trả lời, sự hồi đáp###返却(へん きゃく): sự trả lại; sự hoàn trả",
+                "kunyomi_example": "かえ・す: trả lại"
+            },
+            {
+                "onyomi_example": "サイ###最近(さい きん): gần đây###最後(さい ご): cuối cùng",
+                "kunyomi_example": "もっと・も: vô cùng; cực kỳ"
+            },
+            {
+                "onyomi_example": "ゾク###連続(れんぞく): liên tục",
+                "kunyomi_example": "つづ・ける: tiếp tục###続き(つづ き): tiếp tục, tiếp diễn###手続き(てつづき): thủ tục"
+            },
+            {
+                "onyomi_example": "カク／ゲ###三角(さん かく): hình tam giác###角度(かく ど): góc độ",
+                "kunyomi_example": "かど: góc###つの: sừng"
+            },
+            {
+                "onyomi_example": "音(Onyomi):",
+                "kunyomi_example": "こ・む こ・み###申し込む(もうしこむ): đăng ký###込む: đông (người)"
+            },
+            {
+                "onyomi_example": "シン###THÂN CÁO 申告(しん こく): giấy khai, sự trình báo, thông báo",
+                "kunyomi_example": "もう・す: nói, xưng tên###申し込み(もう し こ み): đơn xin, đăng kí"
+            },
+            {
+                "onyomi_example": "カク/ゴウ###合格(ごう かく): đỗ###格好(かっ こう): ngoại hình, vẻ bề ngoài, phong độ###資格(しかく): bằng cấp, tư cách",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ヨ###予約(よ やく): đặt trước###予定(よ てい: dự định, kế hoạch###予習(よ しゅう): chuẩn bị bài",
+                "kunyomi_example": "あらかじ・め: san sang"
+            }
+        ],
+        "33": [
+            {
+                "onyomi_example": "ヤク###薬品(やく ひん): dược phẩm###薬局(やっ きょく): hiệu thuốc###火薬(か やく): thuốc nổ",
+                "kunyomi_example": "くすり: thuốc###薬指(くすり ゆび): ngón áp út###目薬(め ぐすり): thuốc nhỏ mắt"
+            },
+            {
+                "onyomi_example": "フク###洋服(よう ふく): Trang phục kiểu Âu###和服(わ ふく): Trang phục kiểu Nhật###私服(し ふく): quần áo cá nhân###制服(せい ふく): đồng phục",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シツ、シチ、チ###質問(しつ もん): câu hỏi###品質(ひん しつ): chất lượng###性質(せい しつ): tính chất",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "コウ###日光(にっ こう): ánh mặt trời###観光(かん こう): tham quan; du lịch###観光地(かん こう ち): Địa điểm du lịch",
+                "kunyomi_example": "ひか・る: tỏa sáng; phát sáng; chiếu sáng"
+            },
+            {
+                "onyomi_example": "ヘイ###閉会(へい かい): bế mạc###閉店(へい てん): đóng cửa###閉口(へい こう): sự câm miệng; nín lặng",
+                "kunyomi_example": "し・める: đóng###とじ・る: đóng, gập vào, nhắm###し・まる: Được đóng"
+            },
+            {
+                "onyomi_example": "バン###番号(ばん ごう): số hiệu, số###番組(ばん ぐみ): chương trình###番線(ばん せん): tuyến đường",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ゴウ###記号(き ごう): ký hiệu###暗号(あん ごう): ám hiệu; mật mã; mật hiệu###暗証番号(あん しょう ばん ごう): Số nhận dạng cá nhân",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "コウ###交通(こう つう): giao thông###交通事故(こう つう じ こ): tai nạn giao thông###交番(こう ばん): đồn cảnh sát",
+                "kunyomi_example": "まじ・える: giao nhau; lẫn nhau###ま・ざる: bị giao vào nhau; trộn vào với nhau; lẫn vào với nhau###ま・じる: bị giao vào nhau; trộn vào với nhau; lẫn vào với nhau###まじ・わる: giao nhau; cắt nhau###か・わす: trao đổi; đổi chác cho nhau; giao dịch với nhau###ま・ぜる: được trộn vào với nhau; được pha lẫn vào"
+            },
+            {
+                "onyomi_example": "キ###危険(き けん): nguy hiểm###危害(き がい): nguy hại###危急(き きゅう): nguy cấp; khẩn cấp",
+                "kunyomi_example": "あぶ・ない: nguy hiểm"
+            },
+            {
+                "onyomi_example": "セキ###出席(しゅっ せき): có mặt###欠席(けっ せき): vắng mặt###座席(ざ せき): chỗ ngồi",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "レイ",
+                "kunyomi_example": "もど・す: Đưa về, trả lại, để lại###もど・る: quay lại; trở lại###取り戻す(と り もど す): khôi phục###払い戻す(はら い もど す): trả lại; hoàn trả; trả"
+            },
+            {
+                "onyomi_example": "フツ、ヒツ、ホツ",
+                "kunyomi_example": "はら・う: trả; quét đi; che đậy###支払い(し はら い): thanh toán, chi trả###払い込む(はら い こ む): giao nộp; giao tiền"
+            }
+        ],
+        "34": [
+            {
+                "onyomi_example": "ム、ブ###無理(む り): vô lí, không có khả năng###無料(む りょう): miễn phí###無事(ぶ じ): bình an vô sự###無礼(ぶ れい): vô lễ",
+                "kunyomi_example": "な・い: không có"
+            },
+            {
+                "onyomi_example": "シツ###失恋(しつ れん): thất tình###失望(しつ ぼう): thất vọng###失敗(しっ ぱい): thất bại###失業(しつ ぎょう): thất nghiệp",
+                "kunyomi_example": "うしな・う: mất; đánh mất, bị tước; lỡ; bỏ lỡ"
+            },
+            {
+                "onyomi_example": "レイ、ライ###失礼します(しつ れい します): Xin phép###お礼(お れい): sự cám ơn, cảm tạ###礼金(れい きん): tiền lễ lạt###朝礼(ちょう れい): lễ tập trung buổi sáng",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "コウ、オウ###黄葉(こう よう): lá vàng###黄金(おう ごん): vàng###黄熱(おう ねつ): bệnh sốt vàng da",
+                "kunyomi_example": "き: màu vàng; vàng###黄色(き いろ): màu vàng###黄身(き み): lòng đỏ trứng"
+            },
+            {
+                "onyomi_example": "ク###苦労(く ろう): gian khổ; cam go; khó khăn###苦情(く じょう): lời than phiền###苦痛(く つう): đau đớn; đau khổ; thống khổ###苦心(く しん): Sự khổ tâm, lo lắng, phiền muộn",
+                "kunyomi_example": "くる・しい: đau đớn; đau khổ; khó khăn###くる・しむ: đau đớn; đau khổ###苦手(にが て): kém; yếu###にが・い: đắng###にが・る: cảm thấy đắng"
+            },
+            {
+                "onyomi_example": "マツ、バツ###週末(しゅう まつ): cuối tuần###月末(げつ まつ): cuối tháng###年末(ねん まつ): cuối năm",
+                "kunyomi_example": "すえ: cuối; sau khi; rốt cục###末っ子(すえ っこ): con út"
+            },
+            {
+                "onyomi_example": "トウ###逃亡(とう ぼう): sự chạy trốn###逃走(とう そう): sự đào tẩu",
+                "kunyomi_example": "に・げる: Chạy trốn, bỏ chạy###に・がす: Để xổng, thả ra, bỏ lỡ###のが・す: bỏ lỡ"
+            },
+            {
+                "onyomi_example": "キ###正規(せい き): chính quy###規定(き てい): quy định###定規(じょう ぎ): thước kẻ",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ソク###規則(き そく): quy tắc###原則(げん そく): nguyên tắc; quy tắc chung###法則(ほう そく): định luật; quy tắc",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シュ、ス###保守(ほ しゅ): bảo thủ###守備(しゅ び): bảo vệ , trấn thủ###留守(る す): sự vắng nhà###留守番(る す ばん): sự trông nom nhà cửa",
+                "kunyomi_example": "まも・る: Giữ gìn, bảo vệ, tuân theo"
+            },
+            {
+                "onyomi_example": "シ###歯科(し か): nha khoa###乳歯(にゅう し): răng sữa###門歯(もん し): răng cửa",
+                "kunyomi_example": "は: răng###歯医者(は い しゃ): bác sĩ nha khoa; nha sĩ###虫歯(むし ば): răng sâu; sâu răng"
+            },
+            {
+                "onyomi_example": "ヘイ###並行(へい こう): đồng thời tiến hành###並列(へい れつ): sự song song; sóng đôi",
+                "kunyomi_example": "なら・べる: sắp; bày; bày đặt; bài trí###なら・ぶ: Xếp hàng###な・み: trung bình ; bình thường###人並(ひと なみ): trung bình ( về khả năng,diện mạo, mức sống), bình thường"
+            }
+        ],
+        "35": [
+            {
+                "onyomi_example": "ドウ###同意(どう い): đồng ý###同時(どう じ): đồng thời###同一(どう いつ): đồng nhất",
+                "kunyomi_example": "おな・じ: giống nhau"
+            },
+            {
+                "onyomi_example": "チ、ジ###政治(せい じ): chính trị###政治家(せい じ か): nhà chính trị###治安(ち あん): trị an, cai trị###治療(ち りょう): chữa trị, trị liệu",
+                "kunyomi_example": "なお・す: chữa bệnh###なお・る: khỏi, lành bệnh"
+            },
+            {
+                "onyomi_example": "ショ／ジョ###住所(じゅう しょ): địa chỉ###近所(きん じょ): hàng xóm",
+                "kunyomi_example": "ところ: địa điểm, nơi, chỗ"
+            },
+            {
+                "onyomi_example": "ショ###暑中(しょ ちゅう): giữa mùa hè",
+                "kunyomi_example": "あつ・い: nóng"
+            },
+            {
+                "onyomi_example": "カン###寒中(かん ちゅう): giữa mùa đông",
+                "kunyomi_example": "さむ・い: lạnh"
+            },
+            {
+                "onyomi_example": "ビン/ヘン###不便(ふ べん): bất tiện",
+                "kunyomi_example": "たよ・り: thư từ,tin tức"
+            },
+            {
+                "onyomi_example": "リ###便利(べん り): thuận tiện###利用(り よう): lợi dụng",
+                "kunyomi_example": "き・く: có ích, có lợi###鼻が利く(はな が き く): mũi thính"
+            },
+            {
+                "onyomi_example": "エイ###水泳(すい えい): bơi lội",
+                "kunyomi_example": "およ・ぐ: bơi"
+            },
+            {
+                "onyomi_example": "カツ/カッ###生活(せい かつ): cuộc sống,sinh hoạt###活気(かっ き): sự hoạt bát; sự sôi nổi; sức sống###活動(かつ どう): hoạt động",
+                "kunyomi_example": "い・きる: sống###い・かす: làm sống lại"
+            },
+            {
+                "onyomi_example": "コウ###方向(ほう こう): phương hướng; hướng",
+                "kunyomi_example": "む・かう: quay về phía, tiến về###む・く: đối diện với, quay mặt về phía###む・ける: chỉ mặt, hướng về phíavề phía###む・こう: phía đối diện###むけ: dành cho, thích hợp với (đối tượng, địa điểm)###人にマイクを向ける(ひと に・・・む ける)###: hướng micro về phía mọi người"
+            },
+            {
+                "onyomi_example": "コン###困難(こん なん): khó khăn, khổ sở",
+                "kunyomi_example": "こ・まる: gặp khó khăn, khổ sở"
+            },
+            {
+                "onyomi_example": "ガン",
+                "kunyomi_example": "まる: hình tròn"
+            }
+        ],
+        "36": [
+            {
+                "onyomi_example": "キ###機械(き かい): máy móc",
+                "kunyomi_example": "はた: máy dệt"
+            },
+            {
+                "onyomi_example": "キョク###曲線(きょく せん): đường gấp khúc; đường cong",
+                "kunyomi_example": "ま・がる: rẽ, ngoặt"
+            },
+            {
+                "onyomi_example": "カイ",
+                "kunyomi_example": "みな: hết thảy,###tất cả mọi người###皆さん(みな さん): mọi người"
+            },
+            {
+                "onyomi_example": "イ###違反(い はん): Vi phạm###違法(い ほう): trái phép",
+                "kunyomi_example": "ちが・い: sai, nhầm"
+            },
+            {
+                "onyomi_example": "ム###事務所(じ む しょ): văn phòng###勤務(きん む): công việc",
+                "kunyomi_example": "つと・める: làm việc"
+            },
+            {
+                "onyomi_example": "キャク、カク###客室(きゃく しつ): phòng khách###客席(きゃく せき): ghế khán giả###乗客(じょう きゃく): hành khách",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "トウ",
+                "kunyomi_example": "しま: Đảo###島国(しま ぐに): quốc đảo"
+            },
+            {
+                "onyomi_example": "シン###信号(しん ごう): đèn tín hiệu###信仰(しん こう): tín ngưỡng",
+                "kunyomi_example": "しん・じる: tin tưởng###まこと: sự thật lòng, lòng chân thật"
+            },
+            {
+                "onyomi_example": "チ###遅刻(ち こく): đi muộn###遅延(ち えん): trì hoãn",
+                "kunyomi_example": "おく・れる: bị muộn###おそ・い: muộn"
+            },
+            {
+                "onyomi_example": "キョ###許可(きょ か): cho phép",
+                "kunyomi_example": "ゆる・す: bỏ qua"
+            },
+            {
+                "onyomi_example": "カ###可能(か のう): khả năng",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "キン###禁止(きん し): cấm",
+                "kunyomi_example": ""
+            }
+        ],
+        "37": [
+            {
+                "onyomi_example": "ハツ/ハッ/ホウ###発明(はつ めい): phát minh###発見(はっ けん): phát kiến###発表(はっ ぴょう): phát biểu",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "コウ###工事(こう じ): thi công###工場(こうじょう): nhà máy SX",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ハン###ご飯(ご はん): cơm",
+                "kunyomi_example": "めし: cơm"
+            },
+            {
+                "onyomi_example": "ダイ/タイ###台所(だい どころ): bếp###台風(たい ふう): bão###～台(～だい): cái (đếm máy móc, xe cộ)",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ダイ",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "タイ###招待(しょう たい): mời",
+                "kunyomi_example": "ま・つ: chờ, đợi"
+            },
+            {
+                "onyomi_example": "ベイ###欧米(おう べい): ÂU MỸ###米国(べい こく): nước Mỹ",
+                "kunyomi_example": "こめ: gạo"
+            },
+            {
+                "onyomi_example": "ソン###農村: nông thôn",
+                "kunyomi_example": "むら: thôn, làng"
+            },
+            {
+                "onyomi_example": "チュウ###注意: chú ý###注射: tiêm",
+                "kunyomi_example": "そそ・ぐ: rót (nước)"
+            },
+            {
+                "onyomi_example": "コウ###空港(くう こう): sân bay###成田空港(なり た くう こう): Sân bay Narita",
+                "kunyomi_example": "みなと: bến cảng"
+            },
+            {
+                "onyomi_example": "シュク###宿題(しゅく だい): bài tập về nhà###新宿(しん じゅく): 1 quận thuộc Tokyo",
+                "kunyomi_example": "やど: chỗ trọ; chỗ tạm trú"
+            },
+            {
+                "onyomi_example": "シャ###取捨(しゅ しゃ): sự chọn lọc",
+                "kunyomi_example": "すて・る: vứt, bỏ đi###ごみ捨て(ごみ す て): vứt rác"
+            }
+        ],
+        "38": [
+            {
+                "onyomi_example": "ユ###輸入(ゆ にゅう): nhập khẩu###輸出(ゆ しゅつ): Xuất khẩu",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ショウ###招待(しょう たい): sự mời",
+                "kunyomi_example": "ま・ねく: mời , vẫy"
+            },
+            {
+                "onyomi_example": "コ###呼吸(こ きゅう): sự thở; sự hô hấp; hơi thở",
+                "kunyomi_example": "よ・ぶ: gọi###呼び名(よ び な): tên gọi, tên thường gọi"
+            },
+            {
+                "onyomi_example": "ゲン###原料(げん りょう): nguyên liệu###原因(げん いん): nguyên nhân",
+                "kunyomi_example": "はら: cánh đồng; đồng bằng"
+            },
+            {
+                "onyomi_example": "カン###習慣(しゅう かん): Phong tục, tập quán",
+                "kunyomi_example": "な・らす: làm quen###な・れる: quen với~"
+            },
+            {
+                "onyomi_example": "ライ###依頼(い らい): yêu cầu,nhờ vả",
+                "kunyomi_example": "た・よる: nhờ cậy, tin, dựa vào; たの・む: yêu cầu,nhờ vả"
+            },
+            {
+                "onyomi_example": "セイ###成長(せい ちょう): trưởng thành###成功(せい こう): thành công",
+                "kunyomi_example": "な・る: trở nên , trở thành"
+            },
+            {
+                "onyomi_example": "ホウ###法律(ほうりつ): pháp luật###文法(ぶんぽう): ngữ pháp###方法(ほうほう): phương pháp",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "タイ###退院(たい いん): xuất viện###退学(たい がく): bỏ học###退社(たい しゃ): từ chức, bị thôi việc",
+                "kunyomi_example": "しりぞ・く; ひ・く:"
+            },
+            {
+                "onyomi_example": "サン、シン###THAM GIA 参加(さん か): sự tham gia",
+                "kunyomi_example": "まい・る: đi; đến; gọi; viếng thăm"
+            },
+            {
+                "onyomi_example": "カ###参加(さんか): tham gia###付加(ふか): phụ gia",
+                "kunyomi_example": "くわ・える: thêm vào"
+            },
+            {
+                "onyomi_example": "ガン###海岸(かい がん): bờ biển",
+                "kunyomi_example": "きし: bờ"
+            }
+        ],
+        "39": [
+            {
+                "onyomi_example": "タイ/ダイ###代表(だい ひょう): đại diện###代理(だい り): đại lý,văn phòng đại diện",
+                "kunyomi_example": "か・える: đổi, thay thế, thế chỗ; か・わる: thay đổi, được thay đổi"
+            },
+            {
+                "onyomi_example": "シ###死亡(し ぼう): tử vong",
+                "kunyomi_example": "し・ぬ: mất,chết"
+            },
+            {
+                "onyomi_example": "シュ###首相(しゅ しょう): thủ tướng",
+                "kunyomi_example": "くび: cổ"
+            },
+            {
+                "onyomi_example": "ケツ###結果(けっ か): kết quả###結論(けつ ろん): kết luận",
+                "kunyomi_example": "むす・ぶ: buộc, nối"
+            },
+            {
+                "onyomi_example": "コン###結婚(けっ こん): kết hôn###婚約(こん やく): hôn ước",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "シキ###形式(けい しき): hình thức###結婚式(けっ こん しき): lễ thành hôn###式場(しき じょう): lễ đường",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ゼン###全部(ぜん ぶ): toàn bộ###全員(ぜん いん): toàn bộ(mọi người)###全然(ぜん ぜん): hoàn toàn",
+                "kunyomi_example": "まった・く: hoàn toàn, thực sự là；すべ．て: tat ca, toan bo"
+            },
+            {
+                "onyomi_example": "ジ###次男(じ なん): con thứ (nam)###次女(じ じょ): con thứ (nữ)",
+                "kunyomi_example": "つぎ###二次会"
+            },
+            {
+                "onyomi_example": "ヒツ###必然(ひつ ぜん): điều tất yếu; cần thiết",
+                "kunyomi_example": "かなら・ず: tuyệt đối###かなら．ずしも"
+            },
+            {
+                "onyomi_example": "ヨウ###必要(ひつ よう): cần thiết",
+                "kunyomi_example": "い・る: cần"
+            },
+            {
+                "onyomi_example": "イ###以上(いじょう): trở lên###以下(いか): trở xuống###以内(いない): trong ~###以外(いがい): ngoài ~",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ぜツ###絶対(ぜっ たい): tuyệt đối",
+                "kunyomi_example": "た・える: tuyệt chủng###絶えず"
+            }
+        ],
+        "40": [
+            {
+                "onyomi_example": "タイ/ツイ###絶対(ぜっ たい): tuyệt đối###対応(たい おう): đối ứng; đối phó",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ゼン###全然(ぜん ぜん): hoàn toàn###自然(し ぜん): tự nhiên",
+                "kunyomi_example": "ねん"
+            },
+            {
+                "onyomi_example": "ナン###困難(こん なん): khó khăn ,khổ sở",
+                "kunyomi_example": "むずか・しい: khó"
+            },
+            {
+                "onyomi_example": "ザン###残業(ざん ぎょう): làm thêm giờ###残念(ざんねん): đáng tiếc",
+                "kunyomi_example": "のこ・る: còn thừa, sót lại; のこ.す: chua lai"
+            },
+            {
+                "onyomi_example": "ネン###残念(ざん ねん): đáng thương; sự đáng tiếc;###記念(き ねん): kỉ niệm###念願(ねん がん): tâm niệm; nguyện vọng; hy vọng",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "フク###複雑(ふく ざつ): Phức tạp",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ザツ/ゾウ###雑誌(ざっ し): tạp chí###複雑(ふく ざつ): Phức tạp",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "オ###汚染(お せん): lây nhiễm,truyền nhiễm###汚職(お しょく): tham nhũng",
+                "kunyomi_example": "よご・れる: bị bẩn,nhiễm bẩn###きたな・い: bẩn###汚れ(よご れ): bẩn, vết bẩn###よご．す"
+            },
+            {
+                "onyomi_example": "ヒョウ###予定表(よ てい ひょう): thời khóa biểu###表情(ひょう じょう): diện mạo; tình hình###表現(ひょう げん): biểu hiện",
+                "kunyomi_example": "おもて: vỏ; bên ngoài; mặt ngoài"
+            },
+            {
+                "onyomi_example": "トウ###倒産(とう さん): phá sản",
+                "kunyomi_example": "たお・れる: đổ; sụp đổ; ngã, rơi xuống"
+            },
+            {
+                "onyomi_example": "コ###事故(じこ): sự cố, tai nạn###故郷(こきょう): cố hương",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "カク###確認(かく にん): xác nhận###確実な(かく じつ な): chính xác; chắc chắn",
+                "kunyomi_example": "たし・かめる: xác nhận, làm cho rõ ràng"
+            }
+        ],
+        "41": [
+            {
+                "onyomi_example": "セツ###説明(せつ めい): thuyết minh,giải thích###説得(せっ とく): sự thuyết phục###小説(しょうせつ)",
+                "kunyomi_example": "と・く: giảng giải"
+            },
+            {
+                "onyomi_example": "シン###進学(しん がく): học lên###進化(しん か): tiến hóa###進歩(しんぽ)",
+                "kunyomi_example": "すす・む: tiến triển"
+            },
+            {
+                "onyomi_example": "サン###生産(せい さん): sản xuất###産婦(さん ぷ): sản phụ",
+                "kunyomi_example": "う・まれる: được sinh ra###う・む: sinh đẻ"
+            },
+            {
+                "onyomi_example": "エン###園児(えん じ): nhà trông trẻ###園芸(えん げい): nghệ thuật làm vườn###公園(こうえん): công viên",
+                "kunyomi_example": "その: vườn"
+            },
+            {
+                "onyomi_example": "コウ###公務員(こう む いん): công chức,cán bộ###公園(こう えん): công viên###公表(こう ひょう): công bố",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "アン###案内(あん ない): hướng dẫn###提案(てい あん): đề án, dự kiến",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ナイ###内容(ない よう): nội dung###家内(か ない): vợ###以内(い ない): trong vòng###案内(あんない): hướng dẫn",
+                "kunyomi_example": "うち"
+            },
+            {
+                "onyomi_example": "セキ###石炭(せき たん): than đá###石油(せきゆ): dầu hỏa",
+                "kunyomi_example": "いし: đá"
+            },
+            {
+                "onyomi_example": "ュ###油性(ゆ せい): trơn như dầu, nịnh hót, bợ đỡ###油絵(あぶら え): tranh sơn dầu",
+                "kunyomi_example": "あぶら: dầu###脂肪"
+            },
+            {
+                "onyomi_example": "カ###化学(か がく): môn hóa học###文化(ぶん か): văn hóa###化石(か せき): hóa thạch###高齢化###温暖化",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ワ###和食(わ しょく): món ăn kiểu Nhật###和服(わ ふく): hòa phục (trang phục Nhật)###和室(わしつ): phòng kiểu Nhật###平和(へいわ)",
+                "kunyomi_example": "なご・やか: dịu dàng"
+            },
+            {
+                "onyomi_example": "ケン###健康(けんこう): sức khỏe",
+                "kunyomi_example": ""
+            }
+        ],
+        "42": [
+            {
+                "onyomi_example": "コウ###健康(けんこう): sức khỏe",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ダン###暖房(だんぼう): máy sưởi",
+                "kunyomi_example": "あたた・かい: ấm áp"
+            },
+            {
+                "onyomi_example": "ジョウ・セイ###情報(じょうほう): thông tin",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ホウ###情報(じょうほう): thông tin###予報(よほう): dự báo###報知(ほうち): thông tri",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "テキ###目的(もく てき): mục đích###的確(てき かく): tính rõ ràng; chính xác",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ショウ###紹介(しょう かい): giới thiệu",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "カイ###介護(かい ご): sự chăm sóc bệnh nhân, điều dưỡng###紹介(しょう かい): giới thiệu",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ケイ###経営(けい えい): kinh doanh###経験(けい けん): kinh nghiệm###経済(けいざい): kinh tế",
+                "kunyomi_example": "た・つ: trôi qua (thời gian)"
+            },
+            {
+                "onyomi_example": "ザイ/サイ###経済(けい ざい): kinh tế###返済(へん さい): hoàn trả (tiền), thanh toán hết",
+                "kunyomi_example": "す・む: hoàn tất"
+            },
+            {
+                "onyomi_example": "リツ###法律(ほう りつ): pháp luật",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ショウ・ソウ###首相(しゅしょう): thủ tướng",
+                "kunyomi_example": "あい###相手(あいて): đối phương###相づち(あいづち): từ nói đệm, cảm thán"
+            },
+            {
+                "onyomi_example": "ダン###相談(そうだん): bàn bạc, thảo luận###会談(かいだん): hội đàm###冗談(じょうだん): lời nói đùa",
+                "kunyomi_example": ""
+            }
+        ],
+        "43": [
+            {
+                "onyomi_example": "カイ###回転(かい てん): quay vòng###回復(かい ふく): khôi phục",
+                "kunyomi_example": "まわ・る: đi quanh, quay, xoay###まわ・り: xung quanh"
+            },
+            {
+                "onyomi_example": "キ###起点(き てん): khởi điểm###起案(き あん): bản dự thảo",
+                "kunyomi_example": "お・きる: thức dậy###お・こす: đánh thức"
+            },
+            {
+                "onyomi_example": "ズ/ト###頭痛(ず つう): đau đầu###頭脳(ず のう): bộ não; đầu não",
+                "kunyomi_example": "あたま: đầu"
+            },
+            {
+                "onyomi_example": "タン###短期大学(たん き だい がく): trường cao đẳng###短所(たん しょ): sở đoản; điểm yếu; nhược điểm###短気(たん き): nóng nảy, nóng tính",
+                "kunyomi_example": "みじか・い: ngắn"
+            },
+            {
+                "onyomi_example": "テイ###最低(さい てい): mức thấp nhất###高低(こう てい): cao thấp",
+                "kunyomi_example": "ひく・い: thấp, lùn"
+            },
+            {
+                "onyomi_example": "ケイ###軽自動車(けい じ どう しゃ): xe ô tô hạng nhẹ###軽快(けい かい): nhịp nhàng",
+                "kunyomi_example": "かる・い: nhẹ"
+            },
+            {
+                "onyomi_example": "セン###洗濯(せん たく): giặt giũ###水洗(すい せん): nước tẩy",
+                "kunyomi_example": "あら・う: rửa, giặt"
+            },
+            {
+                "onyomi_example": "ヨウ###洋服(よう ふく): âu phục###洋食(よう しょく): món ăn kiểu phương Tây###西洋化(せい よう か): Tây hóa",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ベツ###性別(せい べつ): giới tính###特別(とく べつ): đặc biệt###別々(べつ べつ): riêng biệt",
+                "kunyomi_example": "わか・れる: chia tay"
+            },
+            {
+                "onyomi_example": "コウ###幸福(こう ふく): hạnh phúc",
+                "kunyomi_example": "さいわ・い: may mắn###しあわ・せ: hạnh phúc"
+            },
+            {
+                "onyomi_example": "ショウ###笑顔(え がお): khuôn mặt cười###談笑(だん しょう): đàm tiếu",
+                "kunyomi_example": "わら・う: cười"
+            },
+            {
+                "onyomi_example": "キュウ",
+                "kunyomi_example": "な・く: khóc###泣き虫(な き むし): đồ mít ướt"
+            }
+        ],
+        "44": [
+            {
+                "onyomi_example": "セイ/ジョウ###安静(あん せい): sự yên tĩnh###静物(せい ぶつ): tĩnh vật###冷静(れいせい): bình tĩnh",
+                "kunyomi_example": "しず・か: yên tĩnh"
+            },
+            {
+                "onyomi_example": "ヘン###大変(たいへん): vất vả",
+                "kunyomi_example": "か・わる: thay đổi###か・える: đổi"
+            },
+            {
+                "onyomi_example": "ゾウ###増長(ぞう ちょう): tăng trưởng###増大(ぞう だい): sự mở rộng; sự tăng thêm###増加(ぞうか): gia tăng",
+                "kunyomi_example": "ふ・える: tăng"
+            },
+            {
+                "onyomi_example": "ゲン###増減(ぞう げん): tăng giảm###減少(げん しょう): giảm thiểu",
+                "kunyomi_example": "へ・る: giảm"
+            },
+            {
+                "onyomi_example": "バイ###二倍(に ばい): 2 lần, gấp đôi###倍率(ばい りつ): bội suất (số lần phóng đại)",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ソ###祖父(そふ): ông (của mình)###祖母(そぼ): bà (của mình)",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ハク",
+                "kunyomi_example": "うす・い: mỏng"
+            },
+            {
+                "onyomi_example": "コウ",
+                "kunyomi_example": "あつ・い: dày###分厚い(ぶあつい): dày, cồng kềnh###厚さ(あつさ): độ dày"
+            },
+            {
+                "onyomi_example": "セイ###政治(せい じ): chính trị###政府(せい ふ): chính phủ",
+                "kunyomi_example": "まつりごと: sự thống trị、sự cai trị"
+            },
+            {
+                "onyomi_example": "ビ###美術(び じゅつ): mĩ thuật###美人(び じん): người đẹp, mĩ nhân###美容院(び よう いん): thẩm mĩ viện",
+                "kunyomi_example": "うつく・しい: đẹp"
+            },
+            {
+                "onyomi_example": "レン###連続(れん ぞく): liên tục###国連(こくれん): LHQ (Liên Hợp Quốc)",
+                "kunyomi_example": "つ・れる: dẫn; dắt###連れて行く(つれていく): dẫn theo"
+            },
+            {
+                "onyomi_example": "ラク###連絡(れん らく): liên lạc###連絡先(れん らく さき): địa chỉ liên lạc、(địa chỉ nhà, địa chỉ email)",
+                "kunyomi_example": "から・む: cãi cọ, gặp rắc rối"
+            }
+        ],
+        "45": [
+            {
+                "onyomi_example": "ソツ・シュツ###卒業(そつぎょう): tốt nghiệp",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "イン###引用(いん よう): sự trích dẫn###引退(いん たい): sự rút lui; sự ng",
+                "kunyomi_example": "ひ・く: kéo; rút###引き出し(ひ き だ し): ngăn kéo###引き算(ひ き ざん): phép trừ"
+            },
+            {
+                "onyomi_example": "エツ・オツ",
+                "kunyomi_example": "こ・す: vượt qua###こ・える: vượt lên###引っ越し(ひっこし): chuyển nhà"
+            },
+            {
+                "onyomi_example": "タイ/タ###太陽(たい よう): thái dương, hệ mặt trời###太平洋(たい へい よう): thái bình dương",
+                "kunyomi_example": "ふと・い: béo, mập"
+            },
+            {
+                "onyomi_example": "サイ###詳細(しょう さい): chi tết, cụ thể###細胞(さい ぼう): tế bào",
+                "kunyomi_example": "ほそ・い: thon dài; mảnh mai###こま・かい: cặn kẽ"
+            },
+            {
+                "onyomi_example": "ドウ###労働(ろう どう): Lao động",
+                "kunyomi_example": "はたら・く: làm việc###はたら・き: chức năng; sự hoạt động"
+            },
+            {
+                "onyomi_example": "オウ###押収(おう しゅう): tịch thu; tước đoạt###押印(おういん): dấu đóng",
+                "kunyomi_example": "お・す: ấn; đẩy"
+            },
+            {
+                "onyomi_example": "コウ###好意(こう い): thiện chí; lòng tốt###好奇心(こう き しん): tính hiếu kỳ; sự tò mò",
+                "kunyomi_example": "す・き: thích###よ・い: hảo, tốt"
+            },
+            {
+                "onyomi_example": "レイ###冷蔵庫(れい ぞう こ): tủ lạnh###冷静(れい せい): bình tĩnh; điềm tĩnh",
+                "kunyomi_example": "つめ・たい: lạnh###ひ・やす: làm lạnh"
+            },
+            {
+                "onyomi_example": "シン###寝室(しん しつ): phòng ngủ",
+                "kunyomi_example": "ね・る: ngủ###寝坊(ね ぼう): việc ngủ dậy muộn"
+            },
+            {
+                "onyomi_example": "ジュ###受験(じゅ けん): sự tham gia kì thi, dự thi###受身(うけ み): bị động; thụ động",
+                "kunyomi_example": "う・ける: nhận"
+            },
+            {
+                "onyomi_example": "フ###付属(ふ ぞく): phụ thuộc###添付(てん ぷ): đính kèm",
+                "kunyomi_example": "つ・ける: dính vào; thêm vào; kèm vào###つ・く: dính###受付(うけ つけ): lễ tân"
+            }
+        ],
+        "46": [
+            {
+                "onyomi_example": "ヒ###飛行機(ひ こう き): máy bay",
+                "kunyomi_example": "と・ぶ: bay###飛び出す(と び だ す): bay ra"
+            },
+            {
+                "onyomi_example": "ビン###船便(ふな びん): chuyển bằng đường biển",
+                "kunyomi_example": "ふね: tàu, thuyền"
+            },
+            {
+                "onyomi_example": "ダン /タン###～段目(～だん め): ngăn (tầng)thứ~###階段(かいだん):###段階(だんかい):",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "カイ###階段(かい だん): cầu thang bộ###階級(かい きゅう): giai cấp",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "チ###価値(かち):",
+                "kunyomi_example": "ね、あたい: giá trị###値段(ねだん): giá cả"
+            },
+            {
+                "onyomi_example": "ヤク###市役所(し やく しょ): văn phòng hành chính###役割(やく わり): vai trò",
+                "kunyomi_example": "えき: chiến đấu; phục vụ"
+            },
+            {
+                "onyomi_example": "ショ###初級(しょ きゅう): sơ cấp###最初(さい しょ): ban đầu###初対面(しょ たい めん): lần gặp đầu",
+                "kunyomi_example": "はじめ: bắt đầu, ban đầu, khởi đầu###はじめて: lần đầu tiên"
+            },
+            {
+                "onyomi_example": "ユウ###優勝(ゆう しょう): sự chiến thắng; vô địch###優秀(ゆう しゅう): xuất sắc, giỏi",
+                "kunyomi_example": "すぐ・れる: vượt trội, xuất sắc"
+            },
+            {
+                "onyomi_example": "イン###原因(げん いん): nguyên nhân###要因(よう いん): nguyên nhân chính",
+                "kunyomi_example": "よる: tùy theo; giới hạn"
+            },
+            {
+                "onyomi_example": "ロン###論文(ろん ぶん): luận văn###理論(り ろん): lí luận###結論(けつろん): kết luận",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ト###途中(と ちゅう): dở dang, giữa chừng",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ケイ###関係(かんけい): mối quan hệ",
+                "kunyomi_example": "かかり: người phụ trách###かか・る###係り員(かかりいん): người chịu trách nhiệm###係り(かかり): người phụ trách"
+            }
+        ],
+        "47": [
+            {
+                "onyomi_example": "セイ/ショウ###音声(おん せい): âm thanh",
+                "kunyomi_example": "こえ、こわ: tiếng nói###歌声(うた ごえ): giọng hát, tiếng hát"
+            },
+            {
+                "onyomi_example": "アン###暗証番号(あん しょう ばん ごう)###: mã số bảo mật###暗記(あん き): sự ghi nhớ; việc học thuộc lòng",
+                "kunyomi_example": "くら・い: tối"
+            },
+            {
+                "onyomi_example": "ジャク###弱点(じゃく てん): nhược điểm; điểm yếu",
+                "kunyomi_example": "よわ・い: yếu kém###よわ・る／まる: trở nên yếu###よわ・める: làm yếu"
+            },
+            {
+                "onyomi_example": "エン/オン###遠足(えん そく): chuyến tham quan, dã ngoại###遠慮(えん りょ): khách khí, ngần ngại, ngại ngùng",
+                "kunyomi_example": "とお・い: xa"
+            },
+            {
+                "onyomi_example": "ヤ###野菜(や さい): rau###野球(や きゅう): Bóng chày",
+                "kunyomi_example": "の: cánh đồng, ruộng đồng###野原(の はら): Cánh đồng, thảo nguyên"
+            },
+            {
+                "onyomi_example": "ハン、ホン、タン、ホ###反対(はん たい): phản đối###反応(はん のう): phản ứng###反省(はん せい): nhìn lại, xem xét lại",
+                "kunyomi_example": "そ・る: phục nguyên, trở lại như cũ###そ・らす: uốn cong"
+            },
+            {
+                "onyomi_example": "デン###伝言(でん ごん): truyền đạt lời nói###伝統(でん とう): truyền thống",
+                "kunyomi_example": "つた・える: trao###つた・わる: được chuyển###つた・う: đi theo"
+            },
+            {
+                "onyomi_example": "ジャク、ニャク、ニャ###若者(わか もの): giới trẻ; lớp trẻ",
+                "kunyomi_example": "わか・い: trẻ"
+            },
+            {
+                "onyomi_example": "リョウ###両側(りょう がわ): hai bên###両面(りょう めん): hai mặt",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ユウ###遊園地(ゆう えん ち): khu vực vui chơi###khu vực giải trí",
+                "kunyomi_example": "あそ・ぶ: chơi, vui; lang thang"
+            },
+            {
+                "onyomi_example": "セン###選手(せん しゅ): người chơi; tuyển thủ###選択(せん たく): tuyển chọn###選挙(せん きょ): tuyển cử; bầu cử",
+                "kunyomi_example": "えら・ぶ: tuyển chọn"
+            },
+            {
+                "onyomi_example": "キュウ###野球(や きゅう): bóng chày###地球(ち きゅう): trái đất, địa cầu",
+                "kunyomi_example": "たま: banh, hình cầu"
+            }
+        ],
+        "48": [
+            {
+                "onyomi_example": "イク###教育(きょう いく): giáo dục###養育(よう いく): dưỡng dục###体育(たいいく)",
+                "kunyomi_example": "そだ・つ: lớn lên###そだ・てる: nuôi lớn###子育て(こ そだ て): nuôi con"
+            },
+            {
+                "onyomi_example": "オン###温泉(おん せん): suối nước nóng###温度(おん ど): nhiệt độ",
+                "kunyomi_example": "あたた・かい/か: ấm; ôn , hòa###あたた・まる/める: làm ấm"
+            },
+            {
+                "onyomi_example": "ネン###燃料(ねん りょう): nhiên liệu",
+                "kunyomi_example": "も・える: bị (được) đốt###も・やす: đốt (cái gì)###燃えるごみ(も える ごみ): rác cháy được"
+            },
+            {
+                "onyomi_example": "スイ",
+                "kunyomi_example": "ふ・く: thổi"
+            },
+            {
+                "onyomi_example": "ラク###落語(らく ご): truyện cười; truyện vui###落花生(らっ か せい): lạc, củ lạc",
+                "kunyomi_example": "おち・る: rơi###おと・す: rơi mất"
+            },
+            {
+                "onyomi_example": "カイ",
+                "kunyomi_example": "とど・く: đến, tới, đụng tới, đạt được###届出(とどけ で): bản báo cáo, biên bản, sự thông báo"
+            },
+            {
+                "onyomi_example": "サン###賛成(さん せい): tán thành,đồng ý",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "レン###恋人(こい びと): người yêu###恋愛(れん あい): tình yêu",
+                "kunyomi_example": "-こい"
+            },
+            {
+                "onyomi_example": "テイ###庭園(てい えん): vườn",
+                "kunyomi_example": "にわ: sân, vườn"
+            },
+            {
+                "onyomi_example": "サイ###良妻(りょう さい): người vợ tốt###夫妻(ふさい): vợ chồng",
+                "kunyomi_example": "つま: vợ"
+            },
+            {
+                "onyomi_example": "フ###夫婦(ふう ふ): vợ chồng###夫妻(ふ さい): vợ chồng, phu thê###大丈夫(だいじょうぶ): không sao",
+                "kunyomi_example": "おっと: chồng"
+            },
+            {
+                "onyomi_example": "ユウ###自由(じゆう): tự do###不自由(ふじゆう): người khuyết tật###由来(ゆらい): nguồn, nguồn gốc",
+                "kunyomi_example": ""
+            }
+        ],
+        "49": [
+            {
+                "onyomi_example": "キョウ/ケイ###東京(とう きょう): Tokyo###京都(きょう と): Kyoto",
+                "kunyomi_example": "-"
+            },
+            {
+                "onyomi_example": "シ###私生活(しせいかつ): đời sống riêng tư, sinh hoạt cá nhân###私立(しりつ): tư lập",
+                "kunyomi_example": "わたし、わたくし: tôi; riêng tư"
+            },
+            {
+                "onyomi_example": "ジョウ、ショウ###乗客(じょう きゃく): hành khách###乗車(じょう しゃ): phương tiện giao thông",
+                "kunyomi_example": "の・る: cưỡi, lên xe; lên tàu"
+            },
+            {
+                "onyomi_example": "サイ###野菜(や さい): rau###菜食(さい しょく): ăn chay",
+                "kunyomi_example": "な: rau cỏ"
+            },
+            {
+                "onyomi_example": "キュウ###呼吸(こきゅう): hô hấp",
+                "kunyomi_example": "す・う: hút (thuốc), hít (thở)"
+            },
+            {
+                "onyomi_example": "キ###日記(にっ き): nhật kí###筆記(ひっ き): bút kí###記事(き じ): phóng sự, bài báo",
+                "kunyomi_example": "しる・す: viết; ghi；đánh dấu"
+            },
+            {
+                "onyomi_example": "セツ###吹雪(ふぶき)",
+                "kunyomi_example": "ゆき: tuyết###大雪(おお ゆき): tuyết lớn###雪山(ゆき やま): núi tuyết"
+            },
+            {
+                "onyomi_example": "カイ/エ###絵本(え ほん): truyện tranh###絵画(かい が): bức tranh",
+                "kunyomi_example": "-"
+            },
+            {
+                "onyomi_example": "ショウ###消去(しょう きょ): xóa###消費(しょう ひ): sự tiêu dùng; tiêu thụ",
+                "kunyomi_example": "け・す: tắt; tiêu diệt###き・える: đi khỏi; biến mất###消しゴム(け し ゴム): cục tẩy"
+            },
+            {
+                "onyomi_example": "オウ、オク",
+                "kunyomi_example": "おく: nằm sâu bên trong###奥さん(おくさん): vợ, phu nhân"
+            },
+            {
+                "onyomi_example": "ト",
+                "kunyomi_example": "わた・す: trao わたる: băng qua"
+            },
+            {
+                "onyomi_example": "ハク###一泊(いっぱく): qua 1 đêm###宿泊(しゅくはく): trọ lại, trú lại",
+                "kunyomi_example": "と・まる: trọ lại"
+            }
+        ],
+        "50": [
+            {
+                "onyomi_example": "シュ###日本酒(に ほん しゅ): rượu Nhật Bản",
+                "kunyomi_example": "さけ/さか: rượu###酒屋(さか や): quán rượu"
+            },
+            {
+                "onyomi_example": "テイ###規定(きてい): quy định###定規(じょうぎ): thước kẻ###予定(よてい): dự định###安定的(あんていてき): tính ổn định",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "レイ: ví dụ###例文(れい ぶん): mẫu câu###例外(れい がい): ngoại lệ###例年(れい ねん): hàng năm",
+                "kunyomi_example": "たと・える: so sánh###たと・えば: ví dụ"
+            },
+            {
+                "onyomi_example": "チョウ###調子(ちょう し): cuộc điều tra###調味料(ちょう み りょう): gia vị###調査(ちょう さ): điều tra",
+                "kunyomi_example": "しら・べる: tra xét###ととの・う/える: thu"
+            },
+            {
+                "onyomi_example": "シ###支店(し てん): chi nhánh###支払い(し はら い): thanh toán, chi trả",
+                "kunyomi_example": "ささ・える: giúp đỡ"
+            },
+            {
+                "onyomi_example": "カ###過去(か こ): quá khứ###過半数(か はん すう): đa số; đại đa số###過程(か てい): quá trình; giai đoạn",
+                "kunyomi_example": "す・ぎる: đi qua;nhiều###す・ごす: dùng (thìgiờ)"
+            },
+            {
+                "onyomi_example": "キン/ゴン###転勤(てん きん): chuyển việc (chuyển nơi làm việc )###勤務(きん む): công việc###勤勉(きん べん): cần cù; chăm chỉ;",
+                "kunyomi_example": "つと・める: làm việc"
+            },
+            {
+                "onyomi_example": "タク###自宅(じたく): nhà riêng###帰宅(きたく): về nhà###住宅(じゅうたく): nhà ở###お宅(おたく): nhà (kính ngữ)",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "セイ###製品(せいひん): sản phẩm",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "セイ・ショウ###男性(だんせい): nam giới###女性(じょせい): nữ giới###性質(せいしつ): tính chất",
+                "kunyomi_example": ""
+            },
+            {
+                "onyomi_example": "ヨウ/ショウ###同様(どう よう): đồng dạng###おかげ様で(おかげ さま で): cảm ơn###(bày tỏ sự cảm ơn khi nhận được sự giúp đỡ)###様子(よう す): vẻ bề ngoài; phong thái; dáng",
+                "kunyomi_example": "さま: tiếng xưng hô đi sau tên người biểu thị sự kính trọng###＿＿様(さま): ngài"
+            },
+            {
+                "onyomi_example": "カン###感謝(かん しゃ): biết ơn###感心(かん しん): quan tâm###感動(かん どう): sự cảm động",
+                "kunyomi_example": "かん・じる: cảm thấy"
+            }
+        ]
+    }
+}
